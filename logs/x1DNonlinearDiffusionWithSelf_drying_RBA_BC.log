@@ -1,0 +1,65 @@
+[2026-06-24 13:15:34] [............................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=1/500 percent=0.20% loss=0.280802 elapsed=00:00:00 ETA=00:04:22 message=
+[2026-06-24 13:15:36] [#...........................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=10/500 percent=2.00% loss=0.0526438 elapsed=00:00:03 ETA=00:02:29 message=
+[2026-06-24 13:15:39] [#...........................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=20/500 percent=4.00% loss=0.020595 elapsed=00:00:05 ETA=00:02:19 message=
+[2026-06-24 13:15:42] [##..........................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=30/500 percent=6.00% loss=0.0127188 elapsed=00:00:08 ETA=00:02:13 message=
+[2026-06-24 13:15:44] [##..........................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=40/500 percent=8.00% loss=0.010058 elapsed=00:00:11 ETA=00:02:10 message=
+[2026-06-24 13:15:47] [###.........................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=50/500 percent=10.00% loss=0.00842802 elapsed=00:00:14 ETA=00:02:07 message=
+[2026-06-24 13:15:50] [###.........................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=60/500 percent=12.00% loss=0.008074 elapsed=00:00:16 ETA=00:02:04 message=
+[2026-06-24 13:15:53] [####........................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=70/500 percent=14.00% loss=0.00777541 elapsed=00:00:19 ETA=00:02:01 message=
+[2026-06-24 13:15:56] [####........................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=80/500 percent=16.00% loss=0.00781288 elapsed=00:00:22 ETA=00:01:58 message=
+[2026-06-24 13:15:58] [#####.......................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=90/500 percent=18.00% loss=0.00799049 elapsed=00:00:25 ETA=00:01:55 message=
+[2026-06-24 13:16:01] [######......................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=100/500 percent=20.00% loss=0.00802764 elapsed=00:00:28 ETA=00:01:52 message=
+[2026-06-24 13:16:04] [######......................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=110/500 percent=22.00% loss=0.00797483 elapsed=00:00:30 ETA=00:01:49 message=
+[2026-06-24 13:16:07] [#######.....................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=120/500 percent=24.00% loss=0.00787162 elapsed=00:00:33 ETA=00:01:47 message=
+[2026-06-24 13:16:10] [#######.....................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=130/500 percent=26.00% loss=0.00775941 elapsed=00:00:36 ETA=00:01:44 message=
+[2026-06-24 13:16:13] [########....................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=140/500 percent=28.00% loss=0.00766786 elapsed=00:00:39 ETA=00:01:41 message=
+[2026-06-24 13:16:16] [########....................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=150/500 percent=30.00% loss=0.00759991 elapsed=00:00:42 ETA=00:01:39 message=
+[2026-06-24 13:16:19] [#########...................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=160/500 percent=32.00% loss=0.00757654 elapsed=00:00:45 ETA=00:01:37 message=
+[2026-06-24 13:16:22] [##########..................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=170/500 percent=34.00% loss=0.00757785 elapsed=00:00:48 ETA=00:01:34 message=
+[2026-06-24 13:16:25] [##########..................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=180/500 percent=36.00% loss=0.00759658 elapsed=00:00:52 ETA=00:01:32 message=
+[2026-06-24 13:16:28] [###########.................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=190/500 percent=38.00% loss=0.00763579 elapsed=00:00:55 ETA=00:01:29 message=
+[2026-06-24 13:16:31] [###########.................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=200/500 percent=40.00% loss=0.00765867 elapsed=00:00:58 ETA=00:01:27 message=
+[2026-06-24 13:16:34] [############................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=210/500 percent=42.00% loss=0.00768243 elapsed=00:01:01 ETA=00:01:24 message=
+[2026-06-24 13:16:38] [############................] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=220/500 percent=44.00% loss=0.00770461 elapsed=00:01:04 ETA=00:01:22 message=
+[2026-06-24 13:16:41] [#############...............] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=230/500 percent=46.00% loss=0.00770906 elapsed=00:01:07 ETA=00:01:19 message=
+[2026-06-24 13:16:44] [#############...............] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=240/500 percent=48.00% loss=0.00770652 elapsed=00:01:10 ETA=00:01:16 message=
+[2026-06-24 13:16:46] [##############..............] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=250/500 percent=50.00% loss=0.00769629 elapsed=00:01:13 ETA=00:01:13 message=
+[2026-06-24 13:16:49] [###############.............] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=260/500 percent=52.00% loss=0.00768392 elapsed=00:01:16 ETA=00:01:10 message=
+[2026-06-24 13:16:52] [###############.............] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=270/500 percent=54.00% loss=0.00765064 elapsed=00:01:18 ETA=00:01:07 message=
+[2026-06-24 13:16:55] [################............] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=280/500 percent=56.00% loss=0.00763637 elapsed=00:01:21 ETA=00:01:04 message=
+[2026-06-24 13:16:58] [################............] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=290/500 percent=58.00% loss=0.00759063 elapsed=00:01:24 ETA=00:01:01 message=
+[2026-06-24 13:17:01] [#################...........] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=300/500 percent=60.00% loss=0.0075288 elapsed=00:01:27 ETA=00:00:58 message=
+[2026-06-24 13:17:03] [#################...........] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=310/500 percent=62.00% loss=0.00746407 elapsed=00:01:30 ETA=00:00:55 message=
+[2026-06-24 13:17:06] [##################..........] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=320/500 percent=64.00% loss=0.00738082 elapsed=00:01:33 ETA=00:00:52 message=
+[2026-06-24 13:17:09] [##################..........] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=330/500 percent=66.00% loss=0.00729603 elapsed=00:01:35 ETA=00:00:49 message=
+[2026-06-24 13:17:12] [###################.........] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=340/500 percent=68.00% loss=0.00720162 elapsed=00:01:38 ETA=00:00:46 message=
+[2026-06-24 13:17:15] [####################........] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=350/500 percent=70.00% loss=0.00710791 elapsed=00:01:41 ETA=00:00:43 message=
+[2026-06-24 13:17:17] [####################........] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=360/500 percent=72.00% loss=0.00700987 elapsed=00:01:44 ETA=00:00:40 message=
+[2026-06-24 13:17:20] [#####################.......] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=370/500 percent=74.00% loss=0.00692028 elapsed=00:01:47 ETA=00:00:37 message=
+[2026-06-24 13:17:23] [#####################.......] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=380/500 percent=76.00% loss=0.00683297 elapsed=00:01:49 ETA=00:00:34 message=
+[2026-06-24 13:17:26] [######################......] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=390/500 percent=78.00% loss=0.00673769 elapsed=00:01:52 ETA=00:00:31 message=
+[2026-06-24 13:17:28] [######################......] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=400/500 percent=80.00% loss=0.00665087 elapsed=00:01:55 ETA=00:00:28 message=
+[2026-06-24 13:17:31] [#######################.....] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=410/500 percent=82.00% loss=0.00656211 elapsed=00:01:58 ETA=00:00:25 message=
+[2026-06-24 13:17:34] [########################....] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=420/500 percent=84.00% loss=0.00647182 elapsed=00:02:00 ETA=00:00:23 message=
+[2026-06-24 13:17:37] [########################....] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=430/500 percent=86.00% loss=0.00638995 elapsed=00:02:03 ETA=00:00:20 message=
+[2026-06-24 13:17:40] [#########################...] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=440/500 percent=88.00% loss=0.00630151 elapsed=00:02:06 ETA=00:00:17 message=
+[2026-06-24 13:17:42] [#########################...] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=450/500 percent=90.00% loss=0.00622144 elapsed=00:02:09 ETA=00:00:14 message=
+[2026-06-24 13:17:45] [##########################..] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=460/500 percent=92.00% loss=0.00612535 elapsed=00:02:12 ETA=00:00:11 message=
+[2026-06-24 13:17:48] [##########################..] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=470/500 percent=94.00% loss=0.00604598 elapsed=00:02:14 ETA=00:00:08 message=
+[2026-06-24 13:17:51] [###########################.] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=480/500 percent=96.00% loss=0.00596117 elapsed=00:02:17 ETA=00:00:05 message=
+[2026-06-24 13:17:53] [###########################.] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=490/500 percent=98.00% loss=0.00586625 elapsed=00:02:20 ETA=00:00:02 message=
+[2026-06-24 13:17:56] [############################] case=1D nonlinear diffusion with self-drying model=RBA-BC status=RUNNING epoch=500/500 percent=100.00% loss=0.00578441 elapsed=00:02:23 ETA=00:00:00 message=
+
+err =
+
+    0.0043
+
+    Time    Relative_L2      RMSE         R2          MAE          MaxAE  
+    ____    ___________    _________    _______    __________    _________
+
+       0     0.0060674     0.0051727    0.99834     0.0043967    0.0089077
+    0.25     0.0047438     0.0037863    0.99808     0.0030849    0.0068536
+    0.75     0.0038556     0.0026831    0.99685     0.0021095    0.0045912
+       1     0.0018285     0.0011831    0.99833    0.00094394    0.0021451
+
+[2026-06-24 13:17:57] [############################] case=1D nonlinear diffusion with self-drying model=RBA-BC status=COMPLETED epoch=500/500 percent=100.00% loss=0.00578441 elapsed=NaN ETA=00:00:00 message=Finished model

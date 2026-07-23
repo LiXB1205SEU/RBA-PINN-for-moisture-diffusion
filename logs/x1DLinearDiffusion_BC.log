@@ -1,0 +1,65 @@
+[2026-06-24 13:04:57] [............................] case=1D linear diffusion model=BC status=RUNNING epoch=1/500 percent=0.20% loss=19.6684 elapsed=00:00:00 ETA=00:02:24 message=
+[2026-06-24 13:04:58] [#...........................] case=1D linear diffusion model=BC status=RUNNING epoch=10/500 percent=2.00% loss=0.247626 elapsed=00:00:00 ETA=00:00:38 message=
+[2026-06-24 13:04:58] [#...........................] case=1D linear diffusion model=BC status=RUNNING epoch=20/500 percent=4.00% loss=0.120093 elapsed=00:00:01 ETA=00:00:30 message=
+[2026-06-24 13:04:59] [##..........................] case=1D linear diffusion model=BC status=RUNNING epoch=30/500 percent=6.00% loss=0.0219005 elapsed=00:00:01 ETA=00:00:27 message=
+[2026-06-24 13:04:59] [##..........................] case=1D linear diffusion model=BC status=RUNNING epoch=40/500 percent=8.00% loss=0.0111907 elapsed=00:00:02 ETA=00:00:25 message=
+[2026-06-24 13:05:00] [###.........................] case=1D linear diffusion model=BC status=RUNNING epoch=50/500 percent=10.00% loss=0.0102348 elapsed=00:00:02 ETA=00:00:23 message=
+[2026-06-24 13:05:00] [###.........................] case=1D linear diffusion model=BC status=RUNNING epoch=60/500 percent=12.00% loss=0.00602214 elapsed=00:00:03 ETA=00:00:22 message=
+[2026-06-24 13:05:01] [####........................] case=1D linear diffusion model=BC status=RUNNING epoch=70/500 percent=14.00% loss=0.00389251 elapsed=00:00:03 ETA=00:00:21 message=
+[2026-06-24 13:05:01] [####........................] case=1D linear diffusion model=BC status=RUNNING epoch=80/500 percent=16.00% loss=0.00300633 elapsed=00:00:04 ETA=00:00:21 message=
+[2026-06-24 13:05:01] [#####.......................] case=1D linear diffusion model=BC status=RUNNING epoch=90/500 percent=18.00% loss=0.0024048 elapsed=00:00:04 ETA=00:00:20 message=
+[2026-06-24 13:05:02] [######......................] case=1D linear diffusion model=BC status=RUNNING epoch=100/500 percent=20.00% loss=0.00199516 elapsed=00:00:04 ETA=00:00:19 message=
+[2026-06-24 13:05:02] [######......................] case=1D linear diffusion model=BC status=RUNNING epoch=110/500 percent=22.00% loss=0.00167261 elapsed=00:00:05 ETA=00:00:19 message=
+[2026-06-24 13:05:03] [#######.....................] case=1D linear diffusion model=BC status=RUNNING epoch=120/500 percent=24.00% loss=0.00140987 elapsed=00:00:05 ETA=00:00:18 message=
+[2026-06-24 13:05:03] [#######.....................] case=1D linear diffusion model=BC status=RUNNING epoch=130/500 percent=26.00% loss=0.00119814 elapsed=00:00:06 ETA=00:00:18 message=
+[2026-06-24 13:05:04] [########....................] case=1D linear diffusion model=BC status=RUNNING epoch=140/500 percent=28.00% loss=0.00102606 elapsed=00:00:06 ETA=00:00:17 message=
+[2026-06-24 13:05:04] [########....................] case=1D linear diffusion model=BC status=RUNNING epoch=150/500 percent=30.00% loss=0.000880021 elapsed=00:00:07 ETA=00:00:17 message=
+[2026-06-24 13:05:05] [#########...................] case=1D linear diffusion model=BC status=RUNNING epoch=160/500 percent=32.00% loss=0.000775436 elapsed=00:00:07 ETA=00:00:16 message=
+[2026-06-24 13:05:05] [##########..................] case=1D linear diffusion model=BC status=RUNNING epoch=170/500 percent=34.00% loss=0.000686218 elapsed=00:00:08 ETA=00:00:15 message=
+[2026-06-24 13:05:06] [##########..................] case=1D linear diffusion model=BC status=RUNNING epoch=180/500 percent=36.00% loss=0.000602647 elapsed=00:00:08 ETA=00:00:15 message=
+[2026-06-24 13:05:06] [###########.................] case=1D linear diffusion model=BC status=RUNNING epoch=190/500 percent=38.00% loss=0.000538852 elapsed=00:00:09 ETA=00:00:14 message=
+[2026-06-24 13:05:07] [###########.................] case=1D linear diffusion model=BC status=RUNNING epoch=200/500 percent=40.00% loss=0.000487475 elapsed=00:00:09 ETA=00:00:14 message=
+[2026-06-24 13:05:07] [############................] case=1D linear diffusion model=BC status=RUNNING epoch=210/500 percent=42.00% loss=0.000444622 elapsed=00:00:10 ETA=00:00:13 message=
+[2026-06-24 13:05:08] [############................] case=1D linear diffusion model=BC status=RUNNING epoch=220/500 percent=44.00% loss=0.000408729 elapsed=00:00:10 ETA=00:00:13 message=
+[2026-06-24 13:05:08] [#############...............] case=1D linear diffusion model=BC status=RUNNING epoch=230/500 percent=46.00% loss=0.000377499 elapsed=00:00:11 ETA=00:00:12 message=
+[2026-06-24 13:05:08] [#############...............] case=1D linear diffusion model=BC status=RUNNING epoch=240/500 percent=48.00% loss=0.000349871 elapsed=00:00:11 ETA=00:00:12 message=
+[2026-06-24 13:05:09] [##############..............] case=1D linear diffusion model=BC status=RUNNING epoch=250/500 percent=50.00% loss=0.000329446 elapsed=00:00:12 ETA=00:00:12 message=
+[2026-06-24 13:05:09] [###############.............] case=1D linear diffusion model=BC status=RUNNING epoch=260/500 percent=52.00% loss=0.00030644 elapsed=00:00:12 ETA=00:00:11 message=
+[2026-06-24 13:05:10] [###############.............] case=1D linear diffusion model=BC status=RUNNING epoch=270/500 percent=54.00% loss=0.000290847 elapsed=00:00:12 ETA=00:00:11 message=
+[2026-06-24 13:05:10] [################............] case=1D linear diffusion model=BC status=RUNNING epoch=280/500 percent=56.00% loss=0.000274351 elapsed=00:00:13 ETA=00:00:10 message=
+[2026-06-24 13:05:11] [################............] case=1D linear diffusion model=BC status=RUNNING epoch=290/500 percent=58.00% loss=0.000260899 elapsed=00:00:13 ETA=00:00:10 message=
+[2026-06-24 13:05:11] [#################...........] case=1D linear diffusion model=BC status=RUNNING epoch=300/500 percent=60.00% loss=0.000249629 elapsed=00:00:14 ETA=00:00:09 message=
+[2026-06-24 13:05:12] [#################...........] case=1D linear diffusion model=BC status=RUNNING epoch=310/500 percent=62.00% loss=0.000240045 elapsed=00:00:14 ETA=00:00:09 message=
+[2026-06-24 13:05:12] [##################..........] case=1D linear diffusion model=BC status=RUNNING epoch=320/500 percent=64.00% loss=0.000228421 elapsed=00:00:15 ETA=00:00:08 message=
+[2026-06-24 13:05:13] [##################..........] case=1D linear diffusion model=BC status=RUNNING epoch=330/500 percent=66.00% loss=0.000218028 elapsed=00:00:15 ETA=00:00:08 message=
+[2026-06-24 13:05:13] [###################.........] case=1D linear diffusion model=BC status=RUNNING epoch=340/500 percent=68.00% loss=0.000208599 elapsed=00:00:16 ETA=00:00:07 message=
+[2026-06-24 13:05:14] [####################........] case=1D linear diffusion model=BC status=RUNNING epoch=350/500 percent=70.00% loss=0.000200837 elapsed=00:00:16 ETA=00:00:07 message=
+[2026-06-24 13:05:14] [####################........] case=1D linear diffusion model=BC status=RUNNING epoch=360/500 percent=72.00% loss=0.000196146 elapsed=00:00:17 ETA=00:00:06 message=
+[2026-06-24 13:05:15] [#####################.......] case=1D linear diffusion model=BC status=RUNNING epoch=370/500 percent=74.00% loss=0.000189042 elapsed=00:00:17 ETA=00:00:06 message=
+[2026-06-24 13:05:15] [#####################.......] case=1D linear diffusion model=BC status=RUNNING epoch=380/500 percent=76.00% loss=0.000180566 elapsed=00:00:18 ETA=00:00:05 message=
+[2026-06-24 13:05:16] [######################......] case=1D linear diffusion model=BC status=RUNNING epoch=390/500 percent=78.00% loss=0.000176507 elapsed=00:00:18 ETA=00:00:05 message=
+[2026-06-24 13:05:16] [######################......] case=1D linear diffusion model=BC status=RUNNING epoch=400/500 percent=80.00% loss=0.000171716 elapsed=00:00:19 ETA=00:00:04 message=
+[2026-06-24 13:05:17] [#######################.....] case=1D linear diffusion model=BC status=RUNNING epoch=410/500 percent=82.00% loss=0.00016656 elapsed=00:00:19 ETA=00:00:04 message=
+[2026-06-24 13:05:17] [########################....] case=1D linear diffusion model=BC status=RUNNING epoch=420/500 percent=84.00% loss=0.000160504 elapsed=00:00:20 ETA=00:00:03 message=
+[2026-06-24 13:05:18] [########################....] case=1D linear diffusion model=BC status=RUNNING epoch=430/500 percent=86.00% loss=0.000156701 elapsed=00:00:20 ETA=00:00:03 message=
+[2026-06-24 13:05:18] [#########################...] case=1D linear diffusion model=BC status=RUNNING epoch=440/500 percent=88.00% loss=0.000152229 elapsed=00:00:21 ETA=00:00:02 message=
+[2026-06-24 13:05:19] [#########################...] case=1D linear diffusion model=BC status=RUNNING epoch=450/500 percent=90.00% loss=0.000149332 elapsed=00:00:21 ETA=00:00:02 message=
+[2026-06-24 13:05:19] [##########################..] case=1D linear diffusion model=BC status=RUNNING epoch=460/500 percent=92.00% loss=0.000143909 elapsed=00:00:22 ETA=00:00:01 message=
+[2026-06-24 13:05:20] [##########################..] case=1D linear diffusion model=BC status=RUNNING epoch=470/500 percent=94.00% loss=0.000142966 elapsed=00:00:22 ETA=00:00:01 message=
+[2026-06-24 13:05:20] [###########################.] case=1D linear diffusion model=BC status=RUNNING epoch=480/500 percent=96.00% loss=0.000139176 elapsed=00:00:23 ETA=00:00:00 message=
+[2026-06-24 13:05:21] [###########################.] case=1D linear diffusion model=BC status=RUNNING epoch=490/500 percent=98.00% loss=0.000136222 elapsed=00:00:23 ETA=00:00:00 message=
+[2026-06-24 13:05:21] [############################] case=1D linear diffusion model=BC status=RUNNING epoch=500/500 percent=100.00% loss=0.000129825 elapsed=00:00:24 ETA=00:00:00 message=
+
+err =
+
+    0.0019
+
+    Time    Relative_L2       RMSE         R2          MAE          MaxAE   
+    ____    ___________    __________    _______    __________    __________
+
+       0    3.2423e-08     2.7989e-08          1    2.2904e-08    5.3495e-08
+    0.25      0.003438       0.002545    0.99854     0.0017502     0.0054995
+    0.75     0.0024835      0.0015901    0.99327     0.0013042     0.0030384
+       1     0.0016854      0.0010477    0.98996    0.00076037     0.0025957
+
+[2026-06-24 13:05:22] [############################] case=1D linear diffusion model=BC status=COMPLETED epoch=500/500 percent=100.00% loss=0.000129825 elapsed=NaN ETA=00:00:00 message=Finished model

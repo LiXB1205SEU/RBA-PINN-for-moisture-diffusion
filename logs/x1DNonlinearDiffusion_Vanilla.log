@@ -1,0 +1,65 @@
+[2026-06-24 13:06:54] [............................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=1/500 percent=0.20% loss=207.199 elapsed=00:00:01 ETA=00:09:20 message=
+[2026-06-24 13:06:55] [#...........................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=10/500 percent=2.00% loss=0.37444 elapsed=00:00:02 ETA=00:01:48 message=
+[2026-06-24 13:06:56] [#...........................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=20/500 percent=4.00% loss=0.291941 elapsed=00:00:03 ETA=00:01:13 message=
+[2026-06-24 13:06:57] [##..........................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=30/500 percent=6.00% loss=0.144567 elapsed=00:00:03 ETA=00:01:00 message=
+[2026-06-24 13:06:58] [##..........................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=40/500 percent=8.00% loss=0.104799 elapsed=00:00:04 ETA=00:00:54 message=
+[2026-06-24 13:06:58] [###.........................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=50/500 percent=10.00% loss=0.0786975 elapsed=00:00:05 ETA=00:00:49 message=
+[2026-06-24 13:06:59] [###.........................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=60/500 percent=12.00% loss=0.0696868 elapsed=00:00:06 ETA=00:00:46 message=
+[2026-06-24 13:07:00] [####........................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=70/500 percent=14.00% loss=0.0600991 elapsed=00:00:07 ETA=00:00:44 message=
+[2026-06-24 13:07:01] [####........................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=80/500 percent=16.00% loss=0.0555887 elapsed=00:00:07 ETA=00:00:41 message=
+[2026-06-24 13:07:02] [#####.......................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=90/500 percent=18.00% loss=0.0499299 elapsed=00:00:08 ETA=00:00:40 message=
+[2026-06-24 13:07:02] [######......................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=100/500 percent=20.00% loss=0.0459418 elapsed=00:00:09 ETA=00:00:38 message=
+[2026-06-24 13:07:03] [######......................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=110/500 percent=22.00% loss=0.042504 elapsed=00:00:10 ETA=00:00:37 message=
+[2026-06-24 13:07:04] [#######.....................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=120/500 percent=24.00% loss=0.0396381 elapsed=00:00:11 ETA=00:00:35 message=
+[2026-06-24 13:07:05] [#######.....................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=130/500 percent=26.00% loss=0.037104 elapsed=00:00:12 ETA=00:00:34 message=
+[2026-06-24 13:07:06] [########....................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=140/500 percent=28.00% loss=0.0348157 elapsed=00:00:13 ETA=00:00:33 message=
+[2026-06-24 13:07:07] [########....................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=150/500 percent=30.00% loss=0.032835 elapsed=00:00:13 ETA=00:00:32 message=
+[2026-06-24 13:07:08] [#########...................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=160/500 percent=32.00% loss=0.0310054 elapsed=00:00:14 ETA=00:00:31 message=
+[2026-06-24 13:07:08] [##########..................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=170/500 percent=34.00% loss=0.0293418 elapsed=00:00:15 ETA=00:00:30 message=
+[2026-06-24 13:07:09] [##########..................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=180/500 percent=36.00% loss=0.0277855 elapsed=00:00:16 ETA=00:00:29 message=
+[2026-06-24 13:07:10] [###########.................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=190/500 percent=38.00% loss=0.0263698 elapsed=00:00:17 ETA=00:00:28 message=
+[2026-06-24 13:07:11] [###########.................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=200/500 percent=40.00% loss=0.0250566 elapsed=00:00:18 ETA=00:00:27 message=
+[2026-06-24 13:07:12] [############................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=210/500 percent=42.00% loss=0.0237993 elapsed=00:00:18 ETA=00:00:26 message=
+[2026-06-24 13:07:13] [############................] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=220/500 percent=44.00% loss=0.0226405 elapsed=00:00:19 ETA=00:00:25 message=
+[2026-06-24 13:07:13] [#############...............] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=230/500 percent=46.00% loss=0.0215523 elapsed=00:00:20 ETA=00:00:24 message=
+[2026-06-24 13:07:14] [#############...............] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=240/500 percent=48.00% loss=0.0204999 elapsed=00:00:21 ETA=00:00:23 message=
+[2026-06-24 13:07:15] [##############..............] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=250/500 percent=50.00% loss=0.0195522 elapsed=00:00:22 ETA=00:00:22 message=
+[2026-06-24 13:07:16] [###############.............] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=260/500 percent=52.00% loss=0.018636 elapsed=00:00:23 ETA=00:00:21 message=
+[2026-06-24 13:07:17] [###############.............] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=270/500 percent=54.00% loss=0.0177526 elapsed=00:00:24 ETA=00:00:20 message=
+[2026-06-24 13:07:18] [################............] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=280/500 percent=56.00% loss=0.0169478 elapsed=00:00:24 ETA=00:00:19 message=
+[2026-06-24 13:07:19] [################............] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=290/500 percent=58.00% loss=0.0161541 elapsed=00:00:25 ETA=00:00:18 message=
+[2026-06-24 13:07:19] [#################...........] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=300/500 percent=60.00% loss=0.0154175 elapsed=00:00:26 ETA=00:00:17 message=
+[2026-06-24 13:07:20] [#################...........] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=310/500 percent=62.00% loss=0.0147406 elapsed=00:00:27 ETA=00:00:16 message=
+[2026-06-24 13:07:21] [##################..........] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=320/500 percent=64.00% loss=0.0140578 elapsed=00:00:28 ETA=00:00:15 message=
+[2026-06-24 13:07:22] [##################..........] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=330/500 percent=66.00% loss=0.0134181 elapsed=00:00:29 ETA=00:00:15 message=
+[2026-06-24 13:07:23] [###################.........] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=340/500 percent=68.00% loss=0.0128331 elapsed=00:00:30 ETA=00:00:14 message=
+[2026-06-24 13:07:24] [####################........] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=350/500 percent=70.00% loss=0.0122812 elapsed=00:00:30 ETA=00:00:13 message=
+[2026-06-24 13:07:25] [####################........] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=360/500 percent=72.00% loss=0.0117467 elapsed=00:00:31 ETA=00:00:12 message=
+[2026-06-24 13:07:25] [#####################.......] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=370/500 percent=74.00% loss=0.0112993 elapsed=00:00:32 ETA=00:00:11 message=
+[2026-06-24 13:07:26] [#####################.......] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=380/500 percent=76.00% loss=0.0108381 elapsed=00:00:33 ETA=00:00:10 message=
+[2026-06-24 13:07:27] [######################......] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=390/500 percent=78.00% loss=0.0104238 elapsed=00:00:34 ETA=00:00:09 message=
+[2026-06-24 13:07:28] [######################......] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=400/500 percent=80.00% loss=0.0100288 elapsed=00:00:35 ETA=00:00:08 message=
+[2026-06-24 13:07:29] [#######################.....] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=410/500 percent=82.00% loss=0.00964204 elapsed=00:00:36 ETA=00:00:07 message=
+[2026-06-24 13:07:30] [########################....] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=420/500 percent=84.00% loss=0.00930983 elapsed=00:00:36 ETA=00:00:07 message=
+[2026-06-24 13:07:31] [########################....] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=430/500 percent=86.00% loss=0.00899231 elapsed=00:00:37 ETA=00:00:06 message=
+[2026-06-24 13:07:31] [#########################...] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=440/500 percent=88.00% loss=0.00868595 elapsed=00:00:38 ETA=00:00:05 message=
+[2026-06-24 13:07:32] [#########################...] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=450/500 percent=90.00% loss=0.00840288 elapsed=00:00:39 ETA=00:00:04 message=
+[2026-06-24 13:07:33] [##########################..] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=460/500 percent=92.00% loss=0.00815332 elapsed=00:00:40 ETA=00:00:03 message=
+[2026-06-24 13:07:34] [##########################..] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=470/500 percent=94.00% loss=0.00789221 elapsed=00:00:41 ETA=00:00:02 message=
+[2026-06-24 13:07:35] [###########################.] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=480/500 percent=96.00% loss=0.00765382 elapsed=00:00:41 ETA=00:00:01 message=
+[2026-06-24 13:07:36] [###########################.] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=490/500 percent=98.00% loss=0.00741497 elapsed=00:00:42 ETA=00:00:00 message=
+[2026-06-24 13:07:36] [############################] case=1D nonlinear diffusion model=Vanilla status=RUNNING epoch=500/500 percent=100.00% loss=0.00719277 elapsed=00:00:43 ETA=00:00:00 message=
+
+err =
+
+    0.0368
+
+    Time    Relative_L2      RMSE         R2          MAE        MaxAE  
+    ____    ___________    _________    _______    _________    ________
+
+       0     0.061456       0.052394    0.82932     0.046097    0.086676
+    0.25     0.042413       0.034006    0.84518     0.032191      0.0608
+    0.75     0.021074       0.015416    0.93292     0.013827    0.023673
+       1     0.010841      0.0076879    0.97698    0.0065218    0.012982
+
+[2026-06-24 13:07:39] [############################] case=1D nonlinear diffusion model=Vanilla status=COMPLETED epoch=500/500 percent=100.00% loss=0.00719277 elapsed=NaN ETA=00:00:00 message=Finished model

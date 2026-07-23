@@ -1,0 +1,22 @@
+[2026-07-10 10:05:49] [............................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=1/500 percent=0.20% loss=41.3225 elapsed=00:00:01 ETA=00:15:28 message=
+[2026-07-10 10:06:08] [#...........................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=25/500 percent=5.00% loss=0.0442751 elapsed=00:00:20 ETA=00:06:32 message=
+[2026-07-10 10:06:27] [###.........................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=50/500 percent=10.00% loss=0.0315773 elapsed=00:00:39 ETA=00:05:57 message=
+[2026-07-10 10:06:45] [####........................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=75/500 percent=15.00% loss=0.0264662 elapsed=00:00:57 ETA=00:05:26 message=
+[2026-07-10 10:07:04] [######......................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=100/500 percent=20.00% loss=0.02338 elapsed=00:01:16 ETA=00:05:05 message=
+[2026-07-10 10:07:23] [#######.....................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=125/500 percent=25.00% loss=0.0211839 elapsed=00:01:35 ETA=00:04:46 message=
+[2026-07-10 10:07:41] [########....................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=150/500 percent=30.00% loss=0.0195226 elapsed=00:01:53 ETA=00:04:24 message=
+[2026-07-10 10:07:59] [##########..................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=175/500 percent=35.00% loss=0.018181 elapsed=00:02:12 ETA=00:04:05 message=
+[2026-07-10 10:08:17] [###########.................] case=2D linear diffusion model=Vanilla status=RUNNING epoch=200/500 percent=40.00% loss=0.0170282 elapsed=00:02:30 ETA=00:03:45 message=
+[2026-07-10 10:08:36] [#############...............] case=2D linear diffusion model=Vanilla status=RUNNING epoch=225/500 percent=45.00% loss=0.0160423 elapsed=00:02:48 ETA=00:03:26 message=
+[2026-07-10 10:08:54] [##############..............] case=2D linear diffusion model=Vanilla status=RUNNING epoch=250/500 percent=50.00% loss=0.0151324 elapsed=00:03:06 ETA=00:03:06 message=
+[2026-07-10 10:09:12] [###############.............] case=2D linear diffusion model=Vanilla status=RUNNING epoch=275/500 percent=55.00% loss=0.0143174 elapsed=00:03:24 ETA=00:02:47 message=
+[2026-07-10 10:09:31] [#################...........] case=2D linear diffusion model=Vanilla status=RUNNING epoch=300/500 percent=60.00% loss=0.0135319 elapsed=00:03:43 ETA=00:02:29 message=
+[2026-07-10 10:09:49] [##################..........] case=2D linear diffusion model=Vanilla status=RUNNING epoch=325/500 percent=65.00% loss=0.0128035 elapsed=00:04:01 ETA=00:02:10 message=
+[2026-07-10 10:10:07] [####################........] case=2D linear diffusion model=Vanilla status=RUNNING epoch=350/500 percent=70.00% loss=0.0121118 elapsed=00:04:20 ETA=00:01:51 message=
+[2026-07-10 10:10:25] [#####################.......] case=2D linear diffusion model=Vanilla status=RUNNING epoch=375/500 percent=75.00% loss=0.0114527 elapsed=00:04:38 ETA=00:01:32 message=
+[2026-07-10 10:10:44] [######################......] case=2D linear diffusion model=Vanilla status=RUNNING epoch=400/500 percent=80.00% loss=0.0108407 elapsed=00:04:56 ETA=00:01:14 message=
+[2026-07-10 10:11:02] [########################....] case=2D linear diffusion model=Vanilla status=RUNNING epoch=425/500 percent=85.00% loss=0.0102315 elapsed=00:05:14 ETA=00:00:55 message=
+[2026-07-10 10:11:20] [#########################...] case=2D linear diffusion model=Vanilla status=RUNNING epoch=450/500 percent=90.00% loss=0.00966791 elapsed=00:05:32 ETA=00:00:36 message=
+[2026-07-10 10:11:38] [###########################.] case=2D linear diffusion model=Vanilla status=RUNNING epoch=475/500 percent=95.00% loss=0.00911499 elapsed=00:05:51 ETA=00:00:18 message=
+[2026-07-10 10:11:57] [############################] case=2D linear diffusion model=Vanilla status=RUNNING epoch=500/500 percent=100.00% loss=0.00857706 elapsed=00:06:09 ETA=00:00:00 message=
+[2026-07-10 10:11:58] [############################] case=2D linear diffusion model=Vanilla status=COMPLETED epoch=500/500 percent=100.00% loss=0.00857706 elapsed=NaN ETA=00:00:00 message=Finished model

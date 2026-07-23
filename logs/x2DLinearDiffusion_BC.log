@@ -1,0 +1,22 @@
+[2026-07-10 10:11:59] [............................] case=2D linear diffusion model=BC status=RUNNING epoch=1/500 percent=0.20% loss=5.39764 elapsed=00:00:00 ETA=00:06:37 message=
+[2026-07-10 10:12:12] [#...........................] case=2D linear diffusion model=BC status=RUNNING epoch=25/500 percent=5.00% loss=0.0469015 elapsed=00:00:14 ETA=00:04:36 message=
+[2026-07-10 10:12:26] [###.........................] case=2D linear diffusion model=BC status=RUNNING epoch=50/500 percent=10.00% loss=0.0131409 elapsed=00:00:28 ETA=00:04:16 message=
+[2026-07-10 10:12:40] [####........................] case=2D linear diffusion model=BC status=RUNNING epoch=75/500 percent=15.00% loss=0.00705291 elapsed=00:00:42 ETA=00:03:58 message=
+[2026-07-10 10:12:54] [######......................] case=2D linear diffusion model=BC status=RUNNING epoch=100/500 percent=20.00% loss=0.0050076 elapsed=00:00:55 ETA=00:03:43 message=
+[2026-07-10 10:13:07] [#######.....................] case=2D linear diffusion model=BC status=RUNNING epoch=125/500 percent=25.00% loss=0.00391451 elapsed=00:01:09 ETA=00:03:28 message=
+[2026-07-10 10:13:20] [########....................] case=2D linear diffusion model=BC status=RUNNING epoch=150/500 percent=30.00% loss=0.00318845 elapsed=00:01:22 ETA=00:03:12 message=
+[2026-07-10 10:13:34] [##########..................] case=2D linear diffusion model=BC status=RUNNING epoch=175/500 percent=35.00% loss=0.00266779 elapsed=00:01:36 ETA=00:02:58 message=
+[2026-07-10 10:13:47] [###########.................] case=2D linear diffusion model=BC status=RUNNING epoch=200/500 percent=40.00% loss=0.00227505 elapsed=00:01:49 ETA=00:02:44 message=
+[2026-07-10 10:14:00] [#############...............] case=2D linear diffusion model=BC status=RUNNING epoch=225/500 percent=45.00% loss=0.00196809 elapsed=00:02:02 ETA=00:02:29 message=
+[2026-07-10 10:14:14] [##############..............] case=2D linear diffusion model=BC status=RUNNING epoch=250/500 percent=50.00% loss=0.00171813 elapsed=00:02:16 ETA=00:02:16 message=
+[2026-07-10 10:14:27] [###############.............] case=2D linear diffusion model=BC status=RUNNING epoch=275/500 percent=55.00% loss=0.00151885 elapsed=00:02:29 ETA=00:02:02 message=
+[2026-07-10 10:14:40] [#################...........] case=2D linear diffusion model=BC status=RUNNING epoch=300/500 percent=60.00% loss=0.00134492 elapsed=00:02:42 ETA=00:01:48 message=
+[2026-07-10 10:14:53] [##################..........] case=2D linear diffusion model=BC status=RUNNING epoch=325/500 percent=65.00% loss=0.00120201 elapsed=00:02:55 ETA=00:01:34 message=
+[2026-07-10 10:15:07] [####################........] case=2D linear diffusion model=BC status=RUNNING epoch=350/500 percent=70.00% loss=0.00108127 elapsed=00:03:08 ETA=00:01:20 message=
+[2026-07-10 10:15:20] [#####################.......] case=2D linear diffusion model=BC status=RUNNING epoch=375/500 percent=75.00% loss=0.000969013 elapsed=00:03:21 ETA=00:01:07 message=
+[2026-07-10 10:15:33] [######################......] case=2D linear diffusion model=BC status=RUNNING epoch=400/500 percent=80.00% loss=0.000876448 elapsed=00:03:35 ETA=00:00:53 message=
+[2026-07-10 10:15:47] [########################....] case=2D linear diffusion model=BC status=RUNNING epoch=425/500 percent=85.00% loss=0.000798093 elapsed=00:03:48 ETA=00:00:40 message=
+[2026-07-10 10:16:00] [#########################...] case=2D linear diffusion model=BC status=RUNNING epoch=450/500 percent=90.00% loss=0.00072665 elapsed=00:04:01 ETA=00:00:26 message=
+[2026-07-10 10:16:14] [###########################.] case=2D linear diffusion model=BC status=RUNNING epoch=475/500 percent=95.00% loss=0.000664035 elapsed=00:04:15 ETA=00:00:13 message=
+[2026-07-10 10:16:27] [############################] case=2D linear diffusion model=BC status=RUNNING epoch=500/500 percent=100.00% loss=0.000606774 elapsed=00:04:28 ETA=00:00:00 message=
+[2026-07-10 10:16:27] [############################] case=2D linear diffusion model=BC status=COMPLETED epoch=500/500 percent=100.00% loss=0.000606774 elapsed=NaN ETA=00:00:00 message=Finished model

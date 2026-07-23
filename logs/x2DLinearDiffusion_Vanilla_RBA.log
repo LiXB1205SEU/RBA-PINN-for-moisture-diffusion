@@ -1,0 +1,46 @@
+
+========================================
+2D Vanilla-RBA PINN
+Execution environment: gpu
+GPU: NVIDIA GeForce RTX 4070 SUPER
+PDE: Ut - c*(Uxx+Uyy) = 0
+Layers = 8, Neurons = 20, Activation = sin
+Epochs = 500, Collocation points = 10000, Batch size = 1000
+RBA: gamma = 0.999, eta_init = 1, eta = 0.01
+========================================
+[2026-07-10 10:16:28] [............................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=1/500 percent=0.20% loss=9.63433 elapsed=00:00:00 ETA=00:07:18 message=
+Epoch     1/500, total = 9.634326e+00, weightedF = 9.157565e+00, unweightedF = 4.995066e+01, U = 4.767604e-01, elapsed = 0.88 s
+[2026-07-10 10:16:41] [#...........................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=25/500 percent=5.00% loss=0.0253901 elapsed=00:00:13 ETA=00:04:14 message=
+[2026-07-10 10:16:54] [###.........................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=50/500 percent=10.00% loss=0.0213877 elapsed=00:00:26 ETA=00:03:57 message=
+Epoch    50/500, total = 2.138771e-02, weightedF = 5.043375e-03, unweightedF = 3.562968e-03, U = 1.634433e-02, elapsed = 26.36 s
+[2026-07-10 10:17:06] [####........................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=75/500 percent=15.00% loss=0.0195055 elapsed=00:00:38 ETA=00:03:40 message=
+[2026-07-10 10:17:19] [######......................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=100/500 percent=20.00% loss=0.0179757 elapsed=00:00:51 ETA=00:03:26 message=
+Epoch   100/500, total = 1.797567e-02, weightedF = 4.066834e-03, unweightedF = 2.187441e-03, U = 1.390884e-02, elapsed = 51.64 s
+[2026-07-10 10:17:32] [#######.....................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=125/500 percent=25.00% loss=0.0166192 elapsed=00:01:04 ETA=00:03:13 message=
+[2026-07-10 10:18:10] [########....................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=150/500 percent=30.00% loss=0.0153474 elapsed=00:01:43 ETA=00:04:00 message=
+Epoch   150/500, total = 1.534735e-02, weightedF = 3.475572e-03, unweightedF = 1.663862e-03, U = 1.187178e-02, elapsed = 103.06 s
+[2026-07-10 10:18:45] [##########..................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=175/500 percent=35.00% loss=0.0141709 elapsed=00:02:17 ETA=00:04:14 message=
+[2026-07-10 10:18:58] [###########.................] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=200/500 percent=40.00% loss=0.0130393 elapsed=00:02:30 ETA=00:03:45 message=
+Epoch   200/500, total = 1.303932e-02, weightedF = 2.916789e-03, unweightedF = 1.357232e-03, U = 1.012253e-02, elapsed = 150.17 s
+[2026-07-10 10:19:10] [#############...............] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=225/500 percent=45.00% loss=0.0119828 elapsed=00:02:42 ETA=00:03:18 message=
+[2026-07-10 10:19:23] [##############..............] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=250/500 percent=50.00% loss=0.0110075 elapsed=00:02:55 ETA=00:02:55 message=
+Epoch   250/500, total = 1.100749e-02, weightedF = 2.415163e-03, unweightedF = 1.167583e-03, U = 8.592326e-03, elapsed = 175.64 s
+[2026-07-10 10:19:36] [###############.............] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=275/500 percent=55.00% loss=0.0101153 elapsed=00:03:08 ETA=00:02:34 message=
+[2026-07-10 10:19:48] [#################...........] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=300/500 percent=60.00% loss=0.00929401 elapsed=00:03:21 ETA=00:02:14 message=
+Epoch   300/500, total = 9.294012e-03, weightedF = 2.054721e-03, unweightedF = 1.033835e-03, U = 7.239292e-03, elapsed = 201.09 s
+[2026-07-10 10:20:01] [##################..........] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=325/500 percent=65.00% loss=0.00851254 elapsed=00:03:33 ETA=00:01:55 message=
+[2026-07-10 10:20:14] [####################........] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=350/500 percent=70.00% loss=0.00778167 elapsed=00:03:46 ETA=00:01:37 message=
+Epoch   350/500, total = 7.781666e-03, weightedF = 1.799154e-03, unweightedF = 9.383293e-04, U = 5.982512e-03, elapsed = 226.67 s
+[2026-07-10 10:20:27] [#####################.......] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=375/500 percent=75.00% loss=0.00709568 elapsed=00:03:59 ETA=00:01:19 message=
+[2026-07-10 10:20:39] [######################......] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=400/500 percent=80.00% loss=0.00645493 elapsed=00:04:11 ETA=00:01:02 message=
+Epoch   400/500, total = 6.454927e-03, weightedF = 1.636055e-03, unweightedF = 8.828055e-04, U = 4.818872e-03, elapsed = 251.64 s
+[2026-07-10 10:20:52] [########################....] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=425/500 percent=85.00% loss=0.00587116 elapsed=00:04:24 ETA=00:00:46 message=
+[2026-07-10 10:21:05] [#########################...] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=450/500 percent=90.00% loss=0.00533088 elapsed=00:04:37 ETA=00:00:30 message=
+Epoch   450/500, total = 5.330877e-03, weightedF = 1.528434e-03, unweightedF = 8.303420e-04, U = 3.802444e-03, elapsed = 277.58 s
+[2026-07-10 10:21:17] [###########################.] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=475/500 percent=95.00% loss=0.00482528 elapsed=00:04:50 ETA=00:00:15 message=
+[2026-07-10 10:21:30] [############################] case=2D linear diffusion model=Vanilla-RBA status=RUNNING epoch=500/500 percent=100.00% loss=0.00436322 elapsed=00:05:02 ETA=00:00:00 message=
+Epoch   500/500, total = 4.363223e-03, weightedF = 1.409909e-03, unweightedF = 7.643242e-04, U = 2.953314e-03, elapsed = 302.95 s
+
+Done. Files saved to:
+  C:\Users\lxb\OneDrive\001论文\PINN\最终结果_2D_controlled_20260710\details\x2DLinearDiffusion_Vanilla_RBA
+[2026-07-10 10:21:31] [############################] case=2D linear diffusion model=Vanilla-RBA status=COMPLETED epoch=500/500 percent=100.00% loss=0.00436322 elapsed=NaN ETA=00:00:00 message=Finished model

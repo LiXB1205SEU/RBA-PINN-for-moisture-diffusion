@@ -1,0 +1,34 @@
+[2026-07-12 20:22:52] [............................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=1/500 percent=0.20% loss=9.9261 elapsed=00:00:02 ETA=00:22:12 message=
+[2026-07-12 20:23:11] [#...........................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=25/500 percent=5.00% loss=0.0327265 elapsed=00:00:21 ETA=00:06:52 message=
+[2026-07-12 20:23:30] [###.........................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=50/500 percent=10.00% loss=0.0261887 elapsed=00:00:40 ETA=00:06:08 message=
+[2026-07-12 20:23:50] [####........................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=75/500 percent=15.00% loss=0.0237103 elapsed=00:01:00 ETA=00:05:42 message=
+[2026-07-12 20:24:09] [######......................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=100/500 percent=20.00% loss=0.021552 elapsed=00:01:19 ETA=00:05:18 message=
+[2026-07-12 20:24:28] [#######.....................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=125/500 percent=25.00% loss=0.0198016 elapsed=00:01:38 ETA=00:04:56 message=
+[2026-07-12 20:24:47] [########....................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=150/500 percent=30.00% loss=0.0182853 elapsed=00:01:57 ETA=00:04:35 message=
+[2026-07-12 20:25:06] [##########..................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=175/500 percent=35.00% loss=0.0168822 elapsed=00:02:16 ETA=00:04:13 message=
+[2026-07-12 20:25:25] [###########.................] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=200/500 percent=40.00% loss=0.0155975 elapsed=00:02:36 ETA=00:03:54 message=
+[2026-07-12 20:25:44] [#############...............] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=225/500 percent=45.00% loss=0.0144283 elapsed=00:02:55 ETA=00:03:33 message=
+[2026-07-12 20:26:03] [##############..............] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=250/500 percent=50.00% loss=0.0133156 elapsed=00:03:13 ETA=00:03:13 message=
+[2026-07-12 20:26:22] [###############.............] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=275/500 percent=55.00% loss=0.0122897 elapsed=00:03:33 ETA=00:02:54 message=
+[2026-07-12 20:26:41] [#################...........] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=300/500 percent=60.00% loss=0.0113484 elapsed=00:03:51 ETA=00:02:34 message=
+[2026-07-12 20:27:00] [##################..........] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=325/500 percent=65.00% loss=0.010521 elapsed=00:04:10 ETA=00:02:14 message=
+[2026-07-12 20:27:19] [####################........] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=350/500 percent=70.00% loss=0.00979578 elapsed=00:04:29 ETA=00:01:55 message=
+[2026-07-12 20:27:37] [#####################.......] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=375/500 percent=75.00% loss=0.00918428 elapsed=00:04:48 ETA=00:01:36 message=
+[2026-07-12 20:27:56] [######################......] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=400/500 percent=80.00% loss=0.00863501 elapsed=00:05:07 ETA=00:01:16 message=
+[2026-07-12 20:28:15] [########################....] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=425/500 percent=85.00% loss=0.00812607 elapsed=00:05:26 ETA=00:00:57 message=
+[2026-07-12 20:28:34] [#########################...] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=450/500 percent=90.00% loss=0.00762712 elapsed=00:05:44 ETA=00:00:38 message=
+[2026-07-12 20:28:52] [###########################.] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=475/500 percent=95.00% loss=0.00716031 elapsed=00:06:02 ETA=00:00:19 message=
+[2026-07-12 20:29:11] [############################] case=2D nonlinear diffusion model=Vanilla-RBA status=RUNNING epoch=500/500 percent=100.00% loss=0.00670621 elapsed=00:06:21 ETA=00:00:00 message=
+t = 0.00, legacy L2 = 6.84510533e-03
+t = 0.03, legacy L2 = 5.45543685e-03
+t = 0.07, legacy L2 = 3.91308397e-03
+t = 0.10, legacy L2 = 3.49184560e-03
+    Time     Relative_L2      RMSE        R2         MAE        MaxAE  
+    _____    ___________    ________    _______    ________    ________
+
+        0     0.078486      0.059571    0.75583    0.041644     0.15361
+    0.025     0.070151      0.052866    0.77487    0.038618     0.12297
+    0.075     0.059587      0.044233    0.79496    0.034348    0.089405
+      0.1     0.056356      0.041528    0.79817    0.033077    0.081511
+
+[2026-07-12 20:29:13] [############################] case=2D nonlinear diffusion model=Vanilla-RBA status=COMPLETED epoch=500/500 percent=100.00% loss=0.00670621 elapsed=NaN ETA=00:00:00 message=Finished model

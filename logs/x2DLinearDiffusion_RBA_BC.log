@@ -1,0 +1,22 @@
+[2026-07-10 10:21:32] [............................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=1/500 percent=0.20% loss=1.3198 elapsed=00:00:00 ETA=00:05:31 message=
+[2026-07-10 10:21:43] [#...........................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=25/500 percent=5.00% loss=0.0066374 elapsed=00:00:11 ETA=00:03:47 message=
+[2026-07-10 10:21:55] [###.........................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=50/500 percent=10.00% loss=0.00310437 elapsed=00:00:23 ETA=00:03:32 message=
+[2026-07-10 10:22:07] [####........................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=75/500 percent=15.00% loss=0.00224833 elapsed=00:00:35 ETA=00:03:21 message=
+[2026-07-10 10:22:18] [######......................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=100/500 percent=20.00% loss=0.00209849 elapsed=00:00:47 ETA=00:03:09 message=
+[2026-07-10 10:22:30] [#######.....................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=125/500 percent=25.00% loss=0.00170279 elapsed=00:00:58 ETA=00:02:56 message=
+[2026-07-10 10:22:41] [########....................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=150/500 percent=30.00% loss=0.00158451 elapsed=00:01:10 ETA=00:02:44 message=
+[2026-07-10 10:22:53] [##########..................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=175/500 percent=35.00% loss=0.00121096 elapsed=00:01:22 ETA=00:02:33 message=
+[2026-07-10 10:23:05] [###########.................] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=200/500 percent=40.00% loss=0.000948142 elapsed=00:01:34 ETA=00:02:21 message=
+[2026-07-10 10:23:16] [#############...............] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=225/500 percent=45.00% loss=0.000885514 elapsed=00:01:45 ETA=00:02:09 message=
+[2026-07-10 10:23:28] [##############..............] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=250/500 percent=50.00% loss=0.000762282 elapsed=00:01:57 ETA=00:01:57 message=
+[2026-07-10 10:23:40] [###############.............] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=275/500 percent=55.00% loss=0.00070316 elapsed=00:02:08 ETA=00:01:45 message=
+[2026-07-10 10:23:52] [#################...........] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=300/500 percent=60.00% loss=0.000702674 elapsed=00:02:20 ETA=00:01:33 message=
+[2026-07-10 10:24:04] [##################..........] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=325/500 percent=65.00% loss=0.000728587 elapsed=00:02:33 ETA=00:01:22 message=
+[2026-07-10 10:24:16] [####################........] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=350/500 percent=70.00% loss=0.000645363 elapsed=00:02:45 ETA=00:01:10 message=
+[2026-07-10 10:24:28] [#####################.......] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=375/500 percent=75.00% loss=0.000648533 elapsed=00:02:57 ETA=00:00:59 message=
+[2026-07-10 10:24:41] [######################......] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=400/500 percent=80.00% loss=0.000613828 elapsed=00:03:09 ETA=00:00:47 message=
+[2026-07-10 10:24:53] [########################....] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=425/500 percent=85.00% loss=0.000584854 elapsed=00:03:21 ETA=00:00:35 message=
+[2026-07-10 10:25:04] [#########################...] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=450/500 percent=90.00% loss=0.000600388 elapsed=00:03:33 ETA=00:00:23 message=
+[2026-07-10 10:25:16] [###########################.] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=475/500 percent=95.00% loss=0.000498468 elapsed=00:03:44 ETA=00:00:11 message=
+[2026-07-10 10:25:28] [############################] case=2D linear diffusion model=RBA-BC status=RUNNING epoch=500/500 percent=100.00% loss=0.000453392 elapsed=00:03:56 ETA=00:00:00 message=
+[2026-07-10 10:25:28] [############################] case=2D linear diffusion model=RBA-BC status=COMPLETED epoch=500/500 percent=100.00% loss=0.000453392 elapsed=NaN ETA=00:00:00 message=Finished model

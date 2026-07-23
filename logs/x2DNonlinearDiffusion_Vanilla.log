@@ -1,0 +1,34 @@
+[2026-07-10 10:25:31] [............................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=1/500 percent=0.20% loss=24.9443 elapsed=00:00:01 ETA=00:13:09 message=
+[2026-07-10 10:26:23] [#...........................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=25/500 percent=5.00% loss=0.0424375 elapsed=00:00:54 ETA=00:17:13 message=
+[2026-07-10 10:27:19] [###.........................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=50/500 percent=10.00% loss=0.0275109 elapsed=00:01:49 ETA=00:16:27 message=
+[2026-07-10 10:28:14] [####........................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=75/500 percent=15.00% loss=0.0227046 elapsed=00:02:44 ETA=00:15:33 message=
+[2026-07-10 10:29:10] [######......................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=100/500 percent=20.00% loss=0.0198853 elapsed=00:03:41 ETA=00:14:44 message=
+[2026-07-10 10:30:06] [#######.....................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=125/500 percent=25.00% loss=0.0178568 elapsed=00:04:37 ETA=00:13:51 message=
+[2026-07-10 10:31:02] [########....................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=150/500 percent=30.00% loss=0.01629 elapsed=00:05:33 ETA=00:12:57 message=
+[2026-07-10 10:31:56] [##########..................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=175/500 percent=35.00% loss=0.0149781 elapsed=00:06:27 ETA=00:11:59 message=
+[2026-07-10 10:32:52] [###########.................] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=200/500 percent=40.00% loss=0.013876 elapsed=00:07:23 ETA=00:11:04 message=
+[2026-07-10 10:33:38] [#############...............] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=225/500 percent=45.00% loss=0.0128771 elapsed=00:08:08 ETA=00:09:57 message=
+[2026-07-10 10:34:33] [##############..............] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=250/500 percent=50.00% loss=0.01198 elapsed=00:09:04 ETA=00:09:04 message=
+[2026-07-10 10:35:27] [###############.............] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=275/500 percent=55.00% loss=0.0111605 elapsed=00:09:58 ETA=00:08:09 message=
+[2026-07-10 10:36:22] [#################...........] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=300/500 percent=60.00% loss=0.0103922 elapsed=00:10:52 ETA=00:07:15 message=
+[2026-07-10 10:37:16] [##################..........] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=325/500 percent=65.00% loss=0.00967781 elapsed=00:11:47 ETA=00:06:20 message=
+[2026-07-10 10:37:49] [####################........] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=350/500 percent=70.00% loss=0.00902934 elapsed=00:12:19 ETA=00:05:16 message=
+[2026-07-10 10:38:41] [#####################.......] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=375/500 percent=75.00% loss=0.00842422 elapsed=00:13:12 ETA=00:04:24 message=
+[2026-07-10 10:39:33] [######################......] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=400/500 percent=80.00% loss=0.00789263 elapsed=00:14:04 ETA=00:03:31 message=
+[2026-07-10 10:40:27] [########################....] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=425/500 percent=85.00% loss=0.00743343 elapsed=00:14:57 ETA=00:02:38 message=
+[2026-07-10 10:41:21] [#########################...] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=450/500 percent=90.00% loss=0.00702947 elapsed=00:15:51 ETA=00:01:45 message=
+[2026-07-10 10:42:17] [###########################.] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=475/500 percent=95.00% loss=0.00666811 elapsed=00:16:47 ETA=00:00:53 message=
+[2026-07-10 10:43:11] [############################] case=2D nonlinear diffusion model=Vanilla status=RUNNING epoch=500/500 percent=100.00% loss=0.00633537 elapsed=00:17:42 ETA=00:00:00 message=
+t = 0.00, legacy L2 = 6.85885170e-03
+t = 0.03, legacy L2 = 5.58160624e-03
+t = 0.07, legacy L2 = 4.15619289e-03
+t = 0.10, legacy L2 = 3.76747743e-03
+    Time     Relative_L2      RMSE        R2         MAE        MaxAE  
+    _____    ___________    ________    _______    ________    ________
+
+        0     0.078294      0.059425    0.75703    0.041359     0.15022
+    0.025     0.070707      0.053285    0.77129    0.039188     0.12134
+    0.075     0.061186       0.04542    0.78381    0.036146    0.088773
+      0.1     0.058328      0.042981     0.7838    0.035338    0.080905
+
+[2026-07-10 10:43:15] [############################] case=2D nonlinear diffusion model=Vanilla status=COMPLETED epoch=500/500 percent=100.00% loss=0.00633537 elapsed=NaN ETA=00:00:00 message=Finished model
