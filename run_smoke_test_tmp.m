@@ -1,0 +1,11 @@
+rootDir = fileparts(mfilename('fullpath'));
+addpath(rootDir);
+opts = struct();
+opts.outputRoot = fullfile(rootDir, 'smoke_results');
+opts.executionEnvironment = "gpu";
+opts.numEpochs = 1;
+opts.numFolds = 1;
+opts.oneD = struct('hiddenLayersList', 2, 'neuronsList', 20, 'numInternalCollocationPoints', 20, 'miniBatchSize', 20, 'numXTest', 51, 'saveTrainedModels', false);
+opts.twoD = struct('hiddenLayersList', 2, 'neuronsList', 20, 'numInternalCollocationPoints', 20, 'miniBatchSize', 20, 'numPredictions', 26, 'FEMInterval', 26, 'saveTrainedModels', false);
+run_all_network_layer_sweeps(opts);
+disp('SMOKE_TEST_DONE');

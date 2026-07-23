@@ -1,0 +1,586 @@
+
+[1D] job 1/45 | hiddenLayers=2 | neurons=20 | fold=1/5 | seed=53001
+[1D] H=2 N=20 fold=1 epoch=1/500 loss=4.014959e+00 elapsed=0.9s
+[1D] H=2 N=20 fold=1 epoch=50/500 loss=4.803423e-02 elapsed=2.5s
+[1D] H=2 N=20 fold=1 epoch=100/500 loss=3.354198e-02 elapsed=3.8s
+[1D] H=2 N=20 fold=1 epoch=150/500 loss=2.878449e-02 elapsed=5.1s
+[1D] H=2 N=20 fold=1 epoch=200/500 loss=2.606326e-02 elapsed=6.3s
+[1D] H=2 N=20 fold=1 epoch=250/500 loss=2.430390e-02 elapsed=7.5s
+[1D] H=2 N=20 fold=1 epoch=300/500 loss=2.301981e-02 elapsed=8.9s
+[1D] H=2 N=20 fold=1 epoch=350/500 loss=2.199890e-02 elapsed=10.4s
+[1D] H=2 N=20 fold=1 epoch=400/500 loss=2.114020e-02 elapsed=11.6s
+[1D] H=2 N=20 fold=1 epoch=450/500 loss=2.039023e-02 elapsed=12.8s
+[1D] H=2 N=20 fold=1 epoch=500/500 loss=1.971235e-02 elapsed=14.0s
+
+[1D] job 2/45 | hiddenLayers=2 | neurons=20 | fold=2/5 | seed=53002
+[1D] H=2 N=20 fold=2 epoch=1/500 loss=4.850195e+00 elapsed=0.1s
+[1D] H=2 N=20 fold=2 epoch=50/500 loss=4.161158e-02 elapsed=1.3s
+[1D] H=2 N=20 fold=2 epoch=100/500 loss=3.604845e-02 elapsed=2.5s
+[1D] H=2 N=20 fold=2 epoch=150/500 loss=3.243296e-02 elapsed=3.7s
+[1D] H=2 N=20 fold=2 epoch=200/500 loss=2.939463e-02 elapsed=4.9s
+[1D] H=2 N=20 fold=2 epoch=250/500 loss=2.704244e-02 elapsed=6.0s
+[1D] H=2 N=20 fold=2 epoch=300/500 loss=2.519784e-02 elapsed=7.2s
+[1D] H=2 N=20 fold=2 epoch=350/500 loss=2.360898e-02 elapsed=8.4s
+[1D] H=2 N=20 fold=2 epoch=400/500 loss=2.215950e-02 elapsed=9.6s
+[1D] H=2 N=20 fold=2 epoch=450/500 loss=2.083876e-02 elapsed=10.8s
+[1D] H=2 N=20 fold=2 epoch=500/500 loss=1.964837e-02 elapsed=12.0s
+
+[1D] job 3/45 | hiddenLayers=2 | neurons=20 | fold=3/5 | seed=53003
+[1D] H=2 N=20 fold=3 epoch=1/500 loss=2.721747e-01 elapsed=0.1s
+[1D] H=2 N=20 fold=3 epoch=50/500 loss=2.536420e-02 elapsed=2.2s
+[1D] H=2 N=20 fold=3 epoch=100/500 loss=1.843311e-02 elapsed=3.4s
+[1D] H=2 N=20 fold=3 epoch=150/500 loss=1.505690e-02 elapsed=4.6s
+[1D] H=2 N=20 fold=3 epoch=200/500 loss=1.308537e-02 elapsed=5.8s
+[1D] H=2 N=20 fold=3 epoch=250/500 loss=1.175677e-02 elapsed=7.0s
+[1D] H=2 N=20 fold=3 epoch=300/500 loss=1.073148e-02 elapsed=8.2s
+[1D] H=2 N=20 fold=3 epoch=350/500 loss=9.884458e-03 elapsed=9.4s
+[1D] H=2 N=20 fold=3 epoch=400/500 loss=9.167311e-03 elapsed=10.6s
+[1D] H=2 N=20 fold=3 epoch=450/500 loss=8.541902e-03 elapsed=11.8s
+[1D] H=2 N=20 fold=3 epoch=500/500 loss=7.991487e-03 elapsed=13.0s
+
+[1D] job 4/45 | hiddenLayers=2 | neurons=20 | fold=4/5 | seed=53004
+[1D] H=2 N=20 fold=4 epoch=1/500 loss=1.891424e+01 elapsed=0.0s
+[1D] H=2 N=20 fold=4 epoch=50/500 loss=7.278153e-02 elapsed=1.2s
+[1D] H=2 N=20 fold=4 epoch=100/500 loss=4.372907e-02 elapsed=2.4s
+[1D] H=2 N=20 fold=4 epoch=150/500 loss=3.727930e-02 elapsed=3.6s
+[1D] H=2 N=20 fold=4 epoch=200/500 loss=3.278397e-02 elapsed=4.8s
+[1D] H=2 N=20 fold=4 epoch=250/500 loss=2.957810e-02 elapsed=5.9s
+[1D] H=2 N=20 fold=4 epoch=300/500 loss=2.724586e-02 elapsed=7.1s
+[1D] H=2 N=20 fold=4 epoch=350/500 loss=2.549468e-02 elapsed=8.3s
+[1D] H=2 N=20 fold=4 epoch=400/500 loss=2.414831e-02 elapsed=9.5s
+[1D] H=2 N=20 fold=4 epoch=450/500 loss=2.308273e-02 elapsed=10.7s
+[1D] H=2 N=20 fold=4 epoch=500/500 loss=2.221483e-02 elapsed=11.9s
+
+[1D] job 5/45 | hiddenLayers=2 | neurons=20 | fold=5/5 | seed=53005
+[1D] H=2 N=20 fold=5 epoch=1/500 loss=1.409308e+01 elapsed=0.0s
+[1D] H=2 N=20 fold=5 epoch=50/500 loss=6.697953e-02 elapsed=1.2s
+[1D] H=2 N=20 fold=5 epoch=100/500 loss=4.695781e-02 elapsed=2.4s
+[1D] H=2 N=20 fold=5 epoch=150/500 loss=4.154307e-02 elapsed=3.5s
+[1D] H=2 N=20 fold=5 epoch=200/500 loss=3.889063e-02 elapsed=4.7s
+[1D] H=2 N=20 fold=5 epoch=250/500 loss=3.692312e-02 elapsed=5.9s
+[1D] H=2 N=20 fold=5 epoch=300/500 loss=3.518010e-02 elapsed=7.1s
+[1D] H=2 N=20 fold=5 epoch=350/500 loss=3.360609e-02 elapsed=8.3s
+[1D] H=2 N=20 fold=5 epoch=400/500 loss=3.217636e-02 elapsed=9.5s
+[1D] H=2 N=20 fold=5 epoch=450/500 loss=3.088194e-02 elapsed=10.7s
+[1D] H=2 N=20 fold=5 epoch=500/500 loss=2.970871e-02 elapsed=11.9s
+
+[1D] job 6/45 | hiddenLayers=2 | neurons=40 | fold=1/5 | seed=55001
+[1D] H=2 N=40 fold=1 epoch=1/500 loss=3.301495e-01 elapsed=0.0s
+[1D] H=2 N=40 fold=1 epoch=50/500 loss=3.070916e-02 elapsed=1.2s
+[1D] H=2 N=40 fold=1 epoch=100/500 loss=2.109035e-02 elapsed=2.4s
+[1D] H=2 N=40 fold=1 epoch=150/500 loss=1.702291e-02 elapsed=3.6s
+[1D] H=2 N=40 fold=1 epoch=200/500 loss=1.429064e-02 elapsed=4.8s
+[1D] H=2 N=40 fold=1 epoch=250/500 loss=1.273100e-02 elapsed=6.0s
+[1D] H=2 N=40 fold=1 epoch=300/500 loss=1.165796e-02 elapsed=7.2s
+[1D] H=2 N=40 fold=1 epoch=350/500 loss=1.073855e-02 elapsed=8.5s
+[1D] H=2 N=40 fold=1 epoch=400/500 loss=9.981616e-03 elapsed=9.7s
+[1D] H=2 N=40 fold=1 epoch=450/500 loss=9.324463e-03 elapsed=10.9s
+[1D] H=2 N=40 fold=1 epoch=500/500 loss=8.726723e-03 elapsed=12.1s
+
+[1D] job 7/45 | hiddenLayers=2 | neurons=40 | fold=2/5 | seed=55002
+[1D] H=2 N=40 fold=2 epoch=1/500 loss=1.537918e+00 elapsed=0.0s
+[1D] H=2 N=40 fold=2 epoch=50/500 loss=3.152864e-02 elapsed=1.2s
+[1D] H=2 N=40 fold=2 epoch=100/500 loss=2.146930e-02 elapsed=2.4s
+[1D] H=2 N=40 fold=2 epoch=150/500 loss=1.813154e-02 elapsed=3.6s
+[1D] H=2 N=40 fold=2 epoch=200/500 loss=1.632993e-02 elapsed=4.7s
+[1D] H=2 N=40 fold=2 epoch=250/500 loss=1.513985e-02 elapsed=5.9s
+[1D] H=2 N=40 fold=2 epoch=300/500 loss=1.422054e-02 elapsed=7.1s
+[1D] H=2 N=40 fold=2 epoch=350/500 loss=1.346006e-02 elapsed=8.3s
+[1D] H=2 N=40 fold=2 epoch=400/500 loss=1.281444e-02 elapsed=9.5s
+[1D] H=2 N=40 fold=2 epoch=450/500 loss=1.225532e-02 elapsed=10.6s
+[1D] H=2 N=40 fold=2 epoch=500/500 loss=1.176094e-02 elapsed=11.8s
+
+[1D] job 8/45 | hiddenLayers=2 | neurons=40 | fold=3/5 | seed=55003
+[1D] H=2 N=40 fold=3 epoch=1/500 loss=3.514234e-01 elapsed=0.0s
+[1D] H=2 N=40 fold=3 epoch=50/500 loss=3.110260e-02 elapsed=1.2s
+[1D] H=2 N=40 fold=3 epoch=100/500 loss=2.133109e-02 elapsed=2.4s
+[1D] H=2 N=40 fold=3 epoch=150/500 loss=1.726516e-02 elapsed=3.5s
+[1D] H=2 N=40 fold=3 epoch=200/500 loss=1.483451e-02 elapsed=4.7s
+[1D] H=2 N=40 fold=3 epoch=250/500 loss=1.295218e-02 elapsed=5.9s
+[1D] H=2 N=40 fold=3 epoch=300/500 loss=1.153299e-02 elapsed=7.1s
+[1D] H=2 N=40 fold=3 epoch=350/500 loss=1.043443e-02 elapsed=8.2s
+[1D] H=2 N=40 fold=3 epoch=400/500 loss=9.589636e-03 elapsed=9.4s
+[1D] H=2 N=40 fold=3 epoch=450/500 loss=8.924693e-03 elapsed=10.6s
+[1D] H=2 N=40 fold=3 epoch=500/500 loss=8.381613e-03 elapsed=11.8s
+
+[1D] job 9/45 | hiddenLayers=2 | neurons=40 | fold=4/5 | seed=55004
+[1D] H=2 N=40 fold=4 epoch=1/500 loss=1.190765e+00 elapsed=0.0s
+[1D] H=2 N=40 fold=4 epoch=50/500 loss=2.619821e-02 elapsed=1.2s
+[1D] H=2 N=40 fold=4 epoch=100/500 loss=1.883554e-02 elapsed=2.4s
+[1D] H=2 N=40 fold=4 epoch=150/500 loss=1.620469e-02 elapsed=3.6s
+[1D] H=2 N=40 fold=4 epoch=200/500 loss=1.435457e-02 elapsed=4.7s
+[1D] H=2 N=40 fold=4 epoch=250/500 loss=1.304480e-02 elapsed=5.9s
+[1D] H=2 N=40 fold=4 epoch=300/500 loss=1.207985e-02 elapsed=7.0s
+[1D] H=2 N=40 fold=4 epoch=350/500 loss=1.133346e-02 elapsed=8.2s
+[1D] H=2 N=40 fold=4 epoch=400/500 loss=1.072417e-02 elapsed=9.4s
+[1D] H=2 N=40 fold=4 epoch=450/500 loss=1.020421e-02 elapsed=10.5s
+[1D] H=2 N=40 fold=4 epoch=500/500 loss=9.744802e-03 elapsed=11.7s
+
+[1D] job 10/45 | hiddenLayers=2 | neurons=40 | fold=5/5 | seed=55005
+[1D] H=2 N=40 fold=5 epoch=1/500 loss=1.509631e+01 elapsed=0.0s
+[1D] H=2 N=40 fold=5 epoch=50/500 loss=4.720640e-02 elapsed=1.2s
+[1D] H=2 N=40 fold=5 epoch=100/500 loss=3.060354e-02 elapsed=2.3s
+[1D] H=2 N=40 fold=5 epoch=150/500 loss=2.544013e-02 elapsed=3.5s
+[1D] H=2 N=40 fold=5 epoch=200/500 loss=2.249576e-02 elapsed=4.7s
+[1D] H=2 N=40 fold=5 epoch=250/500 loss=2.053958e-02 elapsed=5.8s
+[1D] H=2 N=40 fold=5 epoch=300/500 loss=1.912960e-02 elapsed=7.0s
+[1D] H=2 N=40 fold=5 epoch=350/500 loss=1.807250e-02 elapsed=8.1s
+[1D] H=2 N=40 fold=5 epoch=400/500 loss=1.725330e-02 elapsed=9.3s
+[1D] H=2 N=40 fold=5 epoch=450/500 loss=1.659520e-02 elapsed=10.4s
+[1D] H=2 N=40 fold=5 epoch=500/500 loss=1.605049e-02 elapsed=11.6s
+
+[1D] job 11/45 | hiddenLayers=2 | neurons=80 | fold=1/5 | seed=59001
+[1D] H=2 N=80 fold=1 epoch=1/500 loss=3.861781e+00 elapsed=0.0s
+[1D] H=2 N=80 fold=1 epoch=50/500 loss=5.833349e-02 elapsed=1.2s
+[1D] H=2 N=80 fold=1 epoch=100/500 loss=3.548009e-02 elapsed=2.3s
+[1D] H=2 N=80 fold=1 epoch=150/500 loss=3.067252e-02 elapsed=3.5s
+[1D] H=2 N=80 fold=1 epoch=200/500 loss=2.721015e-02 elapsed=4.7s
+[1D] H=2 N=80 fold=1 epoch=250/500 loss=2.437991e-02 elapsed=5.8s
+[1D] H=2 N=80 fold=1 epoch=300/500 loss=2.219881e-02 elapsed=7.0s
+[1D] H=2 N=80 fold=1 epoch=350/500 loss=2.057428e-02 elapsed=8.2s
+[1D] H=2 N=80 fold=1 epoch=400/500 loss=1.937956e-02 elapsed=9.4s
+[1D] H=2 N=80 fold=1 epoch=450/500 loss=1.848506e-02 elapsed=10.6s
+[1D] H=2 N=80 fold=1 epoch=500/500 loss=1.778707e-02 elapsed=11.7s
+
+[1D] job 12/45 | hiddenLayers=2 | neurons=80 | fold=2/5 | seed=59002
+[1D] H=2 N=80 fold=2 epoch=1/500 loss=8.991392e+00 elapsed=0.0s
+[1D] H=2 N=80 fold=2 epoch=50/500 loss=7.033527e-02 elapsed=1.2s
+[1D] H=2 N=80 fold=2 epoch=100/500 loss=3.271387e-02 elapsed=2.3s
+[1D] H=2 N=80 fold=2 epoch=150/500 loss=2.862869e-02 elapsed=3.5s
+[1D] H=2 N=80 fold=2 epoch=200/500 loss=2.538417e-02 elapsed=4.6s
+[1D] H=2 N=80 fold=2 epoch=250/500 loss=2.285450e-02 elapsed=5.8s
+[1D] H=2 N=80 fold=2 epoch=300/500 loss=2.093077e-02 elapsed=7.0s
+[1D] H=2 N=80 fold=2 epoch=350/500 loss=1.943761e-02 elapsed=8.2s
+[1D] H=2 N=80 fold=2 epoch=400/500 loss=1.823314e-02 elapsed=9.3s
+[1D] H=2 N=80 fold=2 epoch=450/500 loss=1.723463e-02 elapsed=10.5s
+[1D] H=2 N=80 fold=2 epoch=500/500 loss=1.639454e-02 elapsed=11.6s
+
+[1D] job 13/45 | hiddenLayers=2 | neurons=80 | fold=3/5 | seed=59003
+[1D] H=2 N=80 fold=3 epoch=1/500 loss=8.377219e-01 elapsed=0.0s
+[1D] H=2 N=80 fold=3 epoch=50/500 loss=1.081470e-01 elapsed=1.2s
+[1D] H=2 N=80 fold=3 epoch=100/500 loss=3.602193e-02 elapsed=2.3s
+[1D] H=2 N=80 fold=3 epoch=150/500 loss=3.402403e-02 elapsed=3.5s
+[1D] H=2 N=80 fold=3 epoch=200/500 loss=3.281525e-02 elapsed=4.6s
+[1D] H=2 N=80 fold=3 epoch=250/500 loss=3.164930e-02 elapsed=5.8s
+[1D] H=2 N=80 fold=3 epoch=300/500 loss=3.051666e-02 elapsed=6.9s
+[1D] H=2 N=80 fold=3 epoch=350/500 loss=2.943432e-02 elapsed=8.1s
+[1D] H=2 N=80 fold=3 epoch=400/500 loss=2.841370e-02 elapsed=9.2s
+[1D] H=2 N=80 fold=3 epoch=450/500 loss=2.746617e-02 elapsed=10.4s
+[1D] H=2 N=80 fold=3 epoch=500/500 loss=2.659690e-02 elapsed=11.6s
+
+[1D] job 14/45 | hiddenLayers=2 | neurons=80 | fold=4/5 | seed=59004
+[1D] H=2 N=80 fold=4 epoch=1/500 loss=1.170333e+01 elapsed=0.0s
+[1D] H=2 N=80 fold=4 epoch=50/500 loss=6.633132e-02 elapsed=1.1s
+[1D] H=2 N=80 fold=4 epoch=100/500 loss=3.175943e-02 elapsed=2.3s
+[1D] H=2 N=80 fold=4 epoch=150/500 loss=2.822702e-02 elapsed=3.5s
+[1D] H=2 N=80 fold=4 epoch=200/500 loss=2.560681e-02 elapsed=4.7s
+[1D] H=2 N=80 fold=4 epoch=250/500 loss=2.350858e-02 elapsed=5.9s
+[1D] H=2 N=80 fold=4 epoch=300/500 loss=2.176689e-02 elapsed=7.0s
+[1D] H=2 N=80 fold=4 epoch=350/500 loss=2.029977e-02 elapsed=8.2s
+[1D] H=2 N=80 fold=4 epoch=400/500 loss=1.902684e-02 elapsed=9.4s
+[1D] H=2 N=80 fold=4 epoch=450/500 loss=1.789548e-02 elapsed=10.5s
+[1D] H=2 N=80 fold=4 epoch=500/500 loss=1.689930e-02 elapsed=11.7s
+
+[1D] job 15/45 | hiddenLayers=2 | neurons=80 | fold=5/5 | seed=59005
+[1D] H=2 N=80 fold=5 epoch=1/500 loss=2.241269e+00 elapsed=0.0s
+[1D] H=2 N=80 fold=5 epoch=50/500 loss=4.133850e-02 elapsed=1.2s
+[1D] H=2 N=80 fold=5 epoch=100/500 loss=2.842162e-02 elapsed=2.3s
+[1D] H=2 N=80 fold=5 epoch=150/500 loss=2.608187e-02 elapsed=3.5s
+[1D] H=2 N=80 fold=5 epoch=200/500 loss=2.396321e-02 elapsed=4.7s
+[1D] H=2 N=80 fold=5 epoch=250/500 loss=2.193724e-02 elapsed=5.9s
+[1D] H=2 N=80 fold=5 epoch=300/500 loss=2.016663e-02 elapsed=7.0s
+[1D] H=2 N=80 fold=5 epoch=350/500 loss=1.863780e-02 elapsed=8.2s
+[1D] H=2 N=80 fold=5 epoch=400/500 loss=1.730580e-02 elapsed=9.4s
+[1D] H=2 N=80 fold=5 epoch=450/500 loss=1.615477e-02 elapsed=10.5s
+[1D] H=2 N=80 fold=5 epoch=500/500 loss=1.516088e-02 elapsed=11.7s
+
+[1D] job 16/45 | hiddenLayers=4 | neurons=20 | fold=1/5 | seed=73001
+[1D] H=4 N=20 fold=1 epoch=1/500 loss=1.497340e-01 elapsed=0.0s
+[1D] H=4 N=20 fold=1 epoch=50/500 loss=2.248333e-02 elapsed=1.5s
+[1D] H=4 N=20 fold=1 epoch=100/500 loss=1.206120e-02 elapsed=2.9s
+[1D] H=4 N=20 fold=1 epoch=150/500 loss=7.368877e-03 elapsed=4.3s
+[1D] H=4 N=20 fold=1 epoch=200/500 loss=5.417926e-03 elapsed=5.7s
+[1D] H=4 N=20 fold=1 epoch=250/500 loss=4.530597e-03 elapsed=7.2s
+[1D] H=4 N=20 fold=1 epoch=300/500 loss=4.083091e-03 elapsed=8.6s
+[1D] H=4 N=20 fold=1 epoch=350/500 loss=3.771392e-03 elapsed=10.1s
+[1D] H=4 N=20 fold=1 epoch=400/500 loss=3.525985e-03 elapsed=11.5s
+[1D] H=4 N=20 fold=1 epoch=450/500 loss=3.324551e-03 elapsed=13.0s
+[1D] H=4 N=20 fold=1 epoch=500/500 loss=3.152610e-03 elapsed=14.4s
+
+[1D] job 17/45 | hiddenLayers=4 | neurons=20 | fold=2/5 | seed=73002
+[1D] H=4 N=20 fold=2 epoch=1/500 loss=5.347678e-01 elapsed=0.0s
+[1D] H=4 N=20 fold=2 epoch=50/500 loss=3.178938e-02 elapsed=1.5s
+[1D] H=4 N=20 fold=2 epoch=100/500 loss=2.607566e-02 elapsed=2.9s
+[1D] H=4 N=20 fold=2 epoch=150/500 loss=1.982338e-02 elapsed=4.4s
+[1D] H=4 N=20 fold=2 epoch=200/500 loss=1.602019e-02 elapsed=5.9s
+[1D] H=4 N=20 fold=2 epoch=250/500 loss=1.421669e-02 elapsed=7.3s
+[1D] H=4 N=20 fold=2 epoch=300/500 loss=1.288841e-02 elapsed=8.8s
+[1D] H=4 N=20 fold=2 epoch=350/500 loss=1.176179e-02 elapsed=10.2s
+[1D] H=4 N=20 fold=2 epoch=400/500 loss=1.075603e-02 elapsed=11.7s
+[1D] H=4 N=20 fold=2 epoch=450/500 loss=9.832500e-03 elapsed=13.1s
+[1D] H=4 N=20 fold=2 epoch=500/500 loss=8.983886e-03 elapsed=14.6s
+
+[1D] job 18/45 | hiddenLayers=4 | neurons=20 | fold=3/5 | seed=73003
+[1D] H=4 N=20 fold=3 epoch=1/500 loss=4.118529e+00 elapsed=0.0s
+[1D] H=4 N=20 fold=3 epoch=50/500 loss=4.132940e-02 elapsed=1.4s
+[1D] H=4 N=20 fold=3 epoch=100/500 loss=3.585750e-02 elapsed=2.9s
+[1D] H=4 N=20 fold=3 epoch=150/500 loss=3.171557e-02 elapsed=4.3s
+[1D] H=4 N=20 fold=3 epoch=200/500 loss=2.652369e-02 elapsed=5.7s
+[1D] H=4 N=20 fold=3 epoch=250/500 loss=2.043103e-02 elapsed=7.2s
+[1D] H=4 N=20 fold=3 epoch=300/500 loss=1.651819e-02 elapsed=8.8s
+[1D] H=4 N=20 fold=3 epoch=350/500 loss=1.439642e-02 elapsed=10.3s
+[1D] H=4 N=20 fold=3 epoch=400/500 loss=1.304283e-02 elapsed=11.9s
+[1D] H=4 N=20 fold=3 epoch=450/500 loss=1.211332e-02 elapsed=13.3s
+[1D] H=4 N=20 fold=3 epoch=500/500 loss=1.142162e-02 elapsed=14.8s
+
+[1D] job 19/45 | hiddenLayers=4 | neurons=20 | fold=4/5 | seed=73004
+[1D] H=4 N=20 fold=4 epoch=1/500 loss=1.245482e+00 elapsed=0.0s
+[1D] H=4 N=20 fold=4 epoch=50/500 loss=3.194163e-02 elapsed=1.5s
+[1D] H=4 N=20 fold=4 epoch=100/500 loss=2.258673e-02 elapsed=2.9s
+[1D] H=4 N=20 fold=4 epoch=150/500 loss=1.622909e-02 elapsed=4.4s
+[1D] H=4 N=20 fold=4 epoch=200/500 loss=1.010960e-02 elapsed=5.8s
+[1D] H=4 N=20 fold=4 epoch=250/500 loss=7.101993e-03 elapsed=7.2s
+[1D] H=4 N=20 fold=4 epoch=300/500 loss=5.628050e-03 elapsed=8.7s
+[1D] H=4 N=20 fold=4 epoch=350/500 loss=4.692072e-03 elapsed=10.1s
+[1D] H=4 N=20 fold=4 epoch=400/500 loss=3.989038e-03 elapsed=11.5s
+[1D] H=4 N=20 fold=4 epoch=450/500 loss=3.447806e-03 elapsed=12.9s
+[1D] H=4 N=20 fold=4 epoch=500/500 loss=3.026158e-03 elapsed=14.3s
+
+[1D] job 20/45 | hiddenLayers=4 | neurons=20 | fold=5/5 | seed=73005
+[1D] H=4 N=20 fold=5 epoch=1/500 loss=9.993434e-01 elapsed=0.0s
+[1D] H=4 N=20 fold=5 epoch=50/500 loss=3.479649e-02 elapsed=1.4s
+[1D] H=4 N=20 fold=5 epoch=100/500 loss=1.837911e-02 elapsed=2.9s
+[1D] H=4 N=20 fold=5 epoch=150/500 loss=1.364694e-02 elapsed=4.3s
+[1D] H=4 N=20 fold=5 epoch=200/500 loss=1.040542e-02 elapsed=5.7s
+[1D] H=4 N=20 fold=5 epoch=250/500 loss=7.636486e-03 elapsed=7.2s
+[1D] H=4 N=20 fold=5 epoch=300/500 loss=5.861563e-03 elapsed=8.6s
+[1D] H=4 N=20 fold=5 epoch=350/500 loss=4.877870e-03 elapsed=10.1s
+[1D] H=4 N=20 fold=5 epoch=400/500 loss=4.233494e-03 elapsed=11.6s
+[1D] H=4 N=20 fold=5 epoch=450/500 loss=3.760260e-03 elapsed=13.0s
+[1D] H=4 N=20 fold=5 epoch=500/500 loss=3.392566e-03 elapsed=14.5s
+
+[1D] job 21/45 | hiddenLayers=4 | neurons=40 | fold=1/5 | seed=75001
+[1D] H=4 N=40 fold=1 epoch=1/500 loss=2.586293e-01 elapsed=0.0s
+[1D] H=4 N=40 fold=1 epoch=50/500 loss=4.132966e-02 elapsed=1.4s
+[1D] H=4 N=40 fold=1 epoch=100/500 loss=3.633612e-02 elapsed=2.9s
+[1D] H=4 N=40 fold=1 epoch=150/500 loss=3.043291e-02 elapsed=4.3s
+[1D] H=4 N=40 fold=1 epoch=200/500 loss=2.193426e-02 elapsed=5.8s
+[1D] H=4 N=40 fold=1 epoch=250/500 loss=1.582555e-02 elapsed=7.2s
+[1D] H=4 N=40 fold=1 epoch=300/500 loss=1.168200e-02 elapsed=8.6s
+[1D] H=4 N=40 fold=1 epoch=350/500 loss=8.998679e-03 elapsed=10.1s
+[1D] H=4 N=40 fold=1 epoch=400/500 loss=7.197542e-03 elapsed=11.5s
+[1D] H=4 N=40 fold=1 epoch=450/500 loss=5.901555e-03 elapsed=13.0s
+[1D] H=4 N=40 fold=1 epoch=500/500 loss=4.939069e-03 elapsed=14.4s
+
+[1D] job 22/45 | hiddenLayers=4 | neurons=40 | fold=2/5 | seed=75002
+[1D] H=4 N=40 fold=2 epoch=1/500 loss=4.605429e-01 elapsed=0.0s
+[1D] H=4 N=40 fold=2 epoch=50/500 loss=5.244325e-02 elapsed=1.4s
+[1D] H=4 N=40 fold=2 epoch=100/500 loss=4.278279e-02 elapsed=2.9s
+[1D] H=4 N=40 fold=2 epoch=150/500 loss=3.992289e-02 elapsed=4.3s
+[1D] H=4 N=40 fold=2 epoch=200/500 loss=3.724838e-02 elapsed=5.7s
+[1D] H=4 N=40 fold=2 epoch=250/500 loss=3.474303e-02 elapsed=7.2s
+[1D] H=4 N=40 fold=2 epoch=300/500 loss=3.288493e-02 elapsed=8.6s
+[1D] H=4 N=40 fold=2 epoch=350/500 loss=3.112898e-02 elapsed=10.1s
+[1D] H=4 N=40 fold=2 epoch=400/500 loss=2.903019e-02 elapsed=11.6s
+[1D] H=4 N=40 fold=2 epoch=450/500 loss=2.641520e-02 elapsed=13.1s
+[1D] H=4 N=40 fold=2 epoch=500/500 loss=2.336666e-02 elapsed=14.5s
+
+[1D] job 23/45 | hiddenLayers=4 | neurons=40 | fold=3/5 | seed=75003
+[1D] H=4 N=40 fold=3 epoch=1/500 loss=6.119281e+01 elapsed=0.0s
+[1D] H=4 N=40 fold=3 epoch=50/500 loss=4.955570e-02 elapsed=1.5s
+[1D] H=4 N=40 fold=3 epoch=100/500 loss=4.493541e-02 elapsed=3.0s
+[1D] H=4 N=40 fold=3 epoch=150/500 loss=4.171961e-02 elapsed=4.4s
+[1D] H=4 N=40 fold=3 epoch=200/500 loss=3.874239e-02 elapsed=5.9s
+[1D] H=4 N=40 fold=3 epoch=250/500 loss=3.563147e-02 elapsed=7.3s
+[1D] H=4 N=40 fold=3 epoch=300/500 loss=3.226984e-02 elapsed=8.8s
+[1D] H=4 N=40 fold=3 epoch=350/500 loss=2.879225e-02 elapsed=10.3s
+[1D] H=4 N=40 fold=3 epoch=400/500 loss=2.539810e-02 elapsed=11.7s
+[1D] H=4 N=40 fold=3 epoch=450/500 loss=2.245060e-02 elapsed=13.2s
+[1D] H=4 N=40 fold=3 epoch=500/500 loss=2.008916e-02 elapsed=14.6s
+
+[1D] job 24/45 | hiddenLayers=4 | neurons=40 | fold=4/5 | seed=75004
+[1D] H=4 N=40 fold=4 epoch=1/500 loss=8.978456e-01 elapsed=0.0s
+[1D] H=4 N=40 fold=4 epoch=50/500 loss=4.387370e-02 elapsed=1.4s
+[1D] H=4 N=40 fold=4 epoch=100/500 loss=3.578809e-02 elapsed=2.9s
+[1D] H=4 N=40 fold=4 epoch=150/500 loss=2.968701e-02 elapsed=4.4s
+[1D] H=4 N=40 fold=4 epoch=200/500 loss=2.514945e-02 elapsed=5.8s
+[1D] H=4 N=40 fold=4 epoch=250/500 loss=2.120798e-02 elapsed=7.2s
+[1D] H=4 N=40 fold=4 epoch=300/500 loss=1.762186e-02 elapsed=8.7s
+[1D] H=4 N=40 fold=4 epoch=350/500 loss=1.492648e-02 elapsed=10.1s
+[1D] H=4 N=40 fold=4 epoch=400/500 loss=1.343022e-02 elapsed=11.6s
+[1D] H=4 N=40 fold=4 epoch=450/500 loss=1.256135e-02 elapsed=13.1s
+[1D] H=4 N=40 fold=4 epoch=500/500 loss=1.192001e-02 elapsed=14.5s
+
+[1D] job 25/45 | hiddenLayers=4 | neurons=40 | fold=5/5 | seed=75005
+[1D] H=4 N=40 fold=5 epoch=1/500 loss=2.806216e-01 elapsed=0.0s
+[1D] H=4 N=40 fold=5 epoch=50/500 loss=3.319681e-02 elapsed=1.5s
+[1D] H=4 N=40 fold=5 epoch=100/500 loss=1.824563e-02 elapsed=2.9s
+[1D] H=4 N=40 fold=5 epoch=150/500 loss=8.328949e-03 elapsed=4.3s
+[1D] H=4 N=40 fold=5 epoch=200/500 loss=5.081250e-03 elapsed=5.7s
+[1D] H=4 N=40 fold=5 epoch=250/500 loss=3.576423e-03 elapsed=7.2s
+[1D] H=4 N=40 fold=5 epoch=300/500 loss=2.755032e-03 elapsed=8.7s
+[1D] H=4 N=40 fold=5 epoch=350/500 loss=2.373058e-03 elapsed=10.1s
+[1D] H=4 N=40 fold=5 epoch=400/500 loss=2.165650e-03 elapsed=11.6s
+[1D] H=4 N=40 fold=5 epoch=450/500 loss=2.013473e-03 elapsed=13.0s
+[1D] H=4 N=40 fold=5 epoch=500/500 loss=1.883092e-03 elapsed=14.5s
+
+[1D] job 26/45 | hiddenLayers=4 | neurons=80 | fold=1/5 | seed=79001
+[1D] H=4 N=80 fold=1 epoch=1/500 loss=1.892618e+00 elapsed=0.0s
+[1D] H=4 N=80 fold=1 epoch=50/500 loss=4.416423e-02 elapsed=1.5s
+[1D] H=4 N=80 fold=1 epoch=100/500 loss=3.586500e-02 elapsed=2.9s
+[1D] H=4 N=80 fold=1 epoch=150/500 loss=3.257486e-02 elapsed=4.4s
+[1D] H=4 N=80 fold=1 epoch=200/500 loss=2.934223e-02 elapsed=5.8s
+[1D] H=4 N=80 fold=1 epoch=250/500 loss=2.620726e-02 elapsed=7.2s
+[1D] H=4 N=80 fold=1 epoch=300/500 loss=2.355262e-02 elapsed=8.6s
+[1D] H=4 N=80 fold=1 epoch=350/500 loss=2.128561e-02 elapsed=9.9s
+[1D] H=4 N=80 fold=1 epoch=400/500 loss=1.913744e-02 elapsed=11.4s
+[1D] H=4 N=80 fold=1 epoch=450/500 loss=1.719992e-02 elapsed=12.9s
+[1D] H=4 N=80 fold=1 epoch=500/500 loss=1.533904e-02 elapsed=14.6s
+
+[1D] job 27/45 | hiddenLayers=4 | neurons=80 | fold=2/5 | seed=79002
+[1D] H=4 N=80 fold=2 epoch=1/500 loss=4.086341e-01 elapsed=0.0s
+[1D] H=4 N=80 fold=2 epoch=50/500 loss=4.704330e-02 elapsed=1.4s
+[1D] H=4 N=80 fold=2 epoch=100/500 loss=4.200184e-02 elapsed=2.9s
+[1D] H=4 N=80 fold=2 epoch=150/500 loss=3.626256e-02 elapsed=4.4s
+[1D] H=4 N=80 fold=2 epoch=200/500 loss=3.270702e-02 elapsed=5.8s
+[1D] H=4 N=80 fold=2 epoch=250/500 loss=2.963412e-02 elapsed=7.4s
+[1D] H=4 N=80 fold=2 epoch=300/500 loss=2.604574e-02 elapsed=9.1s
+[1D] H=4 N=80 fold=2 epoch=350/500 loss=2.304967e-02 elapsed=10.6s
+[1D] H=4 N=80 fold=2 epoch=400/500 loss=2.053794e-02 elapsed=13.9s
+[1D] H=4 N=80 fold=2 epoch=450/500 loss=1.821155e-02 elapsed=17.5s
+[1D] H=4 N=80 fold=2 epoch=500/500 loss=1.607374e-02 elapsed=21.1s
+
+[1D] job 28/45 | hiddenLayers=4 | neurons=80 | fold=3/5 | seed=79003
+[1D] H=4 N=80 fold=3 epoch=1/500 loss=3.071348e+01 elapsed=0.1s
+[1D] H=4 N=80 fold=3 epoch=50/500 loss=4.872438e-02 elapsed=3.7s
+[1D] H=4 N=80 fold=3 epoch=100/500 loss=3.998086e-02 elapsed=7.4s
+[1D] H=4 N=80 fold=3 epoch=150/500 loss=3.815125e-02 elapsed=11.0s
+[1D] H=4 N=80 fold=3 epoch=200/500 loss=3.701137e-02 elapsed=14.9s
+[1D] H=4 N=80 fold=3 epoch=250/500 loss=3.624454e-02 elapsed=16.3s
+[1D] H=4 N=80 fold=3 epoch=300/500 loss=3.562041e-02 elapsed=17.8s
+[1D] H=4 N=80 fold=3 epoch=350/500 loss=3.504356e-02 elapsed=19.2s
+[1D] H=4 N=80 fold=3 epoch=400/500 loss=3.448080e-02 elapsed=20.7s
+[1D] H=4 N=80 fold=3 epoch=450/500 loss=3.391989e-02 elapsed=22.3s
+[1D] H=4 N=80 fold=3 epoch=500/500 loss=3.335870e-02 elapsed=23.7s
+
+[1D] job 29/45 | hiddenLayers=4 | neurons=80 | fold=4/5 | seed=79004
+[1D] H=4 N=80 fold=4 epoch=1/500 loss=3.746422e-01 elapsed=0.0s
+[1D] H=4 N=80 fold=4 epoch=50/500 loss=5.596833e-02 elapsed=1.5s
+[1D] H=4 N=80 fold=4 epoch=100/500 loss=3.923334e-02 elapsed=2.9s
+[1D] H=4 N=80 fold=4 epoch=150/500 loss=3.549542e-02 elapsed=4.4s
+[1D] H=4 N=80 fold=4 epoch=200/500 loss=3.236517e-02 elapsed=5.8s
+[1D] H=4 N=80 fold=4 epoch=250/500 loss=2.946411e-02 elapsed=7.4s
+[1D] H=4 N=80 fold=4 epoch=300/500 loss=2.642500e-02 elapsed=8.8s
+[1D] H=4 N=80 fold=4 epoch=350/500 loss=2.416530e-02 elapsed=10.3s
+[1D] H=4 N=80 fold=4 epoch=400/500 loss=2.246896e-02 elapsed=11.8s
+[1D] H=4 N=80 fold=4 epoch=450/500 loss=2.098853e-02 elapsed=13.6s
+[1D] H=4 N=80 fold=4 epoch=500/500 loss=1.963178e-02 elapsed=15.1s
+
+[1D] job 30/45 | hiddenLayers=4 | neurons=80 | fold=5/5 | seed=79005
+[1D] H=4 N=80 fold=5 epoch=1/500 loss=5.095070e+01 elapsed=0.0s
+[1D] H=4 N=80 fold=5 epoch=50/500 loss=4.676918e-02 elapsed=1.4s
+[1D] H=4 N=80 fold=5 epoch=100/500 loss=4.329177e-02 elapsed=2.9s
+[1D] H=4 N=80 fold=5 epoch=150/500 loss=4.181838e-02 elapsed=4.4s
+[1D] H=4 N=80 fold=5 epoch=200/500 loss=4.035119e-02 elapsed=5.8s
+[1D] H=4 N=80 fold=5 epoch=250/500 loss=3.907335e-02 elapsed=7.2s
+[1D] H=4 N=80 fold=5 epoch=300/500 loss=3.810607e-02 elapsed=8.7s
+[1D] H=4 N=80 fold=5 epoch=350/500 loss=3.708030e-02 elapsed=10.2s
+[1D] H=4 N=80 fold=5 epoch=400/500 loss=3.592151e-02 elapsed=11.6s
+[1D] H=4 N=80 fold=5 epoch=450/500 loss=3.463826e-02 elapsed=13.0s
+[1D] H=4 N=80 fold=5 epoch=500/500 loss=3.330304e-02 elapsed=14.5s
+
+[1D] job 31/45 | hiddenLayers=8 | neurons=20 | fold=1/5 | seed=113001
+[1D] H=8 N=20 fold=1 epoch=1/500 loss=4.195441e+00 elapsed=0.1s
+[1D] H=8 N=20 fold=1 epoch=50/500 loss=4.946554e-02 elapsed=2.0s
+[1D] H=8 N=20 fold=1 epoch=100/500 loss=4.333851e-02 elapsed=4.0s
+[1D] H=8 N=20 fold=1 epoch=150/500 loss=3.750969e-02 elapsed=6.1s
+[1D] H=8 N=20 fold=1 epoch=200/500 loss=1.981395e-02 elapsed=8.1s
+[1D] H=8 N=20 fold=1 epoch=250/500 loss=1.318634e-02 elapsed=10.1s
+[1D] H=8 N=20 fold=1 epoch=300/500 loss=1.089445e-02 elapsed=12.2s
+[1D] H=8 N=20 fold=1 epoch=350/500 loss=9.852780e-03 elapsed=14.2s
+[1D] H=8 N=20 fold=1 epoch=400/500 loss=9.032541e-03 elapsed=16.2s
+[1D] H=8 N=20 fold=1 epoch=450/500 loss=8.331237e-03 elapsed=18.3s
+[1D] H=8 N=20 fold=1 epoch=500/500 loss=7.669304e-03 elapsed=20.7s
+
+[1D] job 32/45 | hiddenLayers=8 | neurons=20 | fold=2/5 | seed=113002
+[1D] H=8 N=20 fold=2 epoch=1/500 loss=8.821992e+00 elapsed=0.0s
+[1D] H=8 N=20 fold=2 epoch=50/500 loss=3.042704e-02 elapsed=2.0s
+[1D] H=8 N=20 fold=2 epoch=100/500 loss=1.697016e-02 elapsed=4.1s
+[1D] H=8 N=20 fold=2 epoch=150/500 loss=1.274496e-02 elapsed=6.5s
+[1D] H=8 N=20 fold=2 epoch=200/500 loss=9.730047e-03 elapsed=8.5s
+[1D] H=8 N=20 fold=2 epoch=250/500 loss=7.778258e-03 elapsed=10.6s
+[1D] H=8 N=20 fold=2 epoch=300/500 loss=6.326716e-03 elapsed=12.6s
+[1D] H=8 N=20 fold=2 epoch=350/500 loss=5.150808e-03 elapsed=14.6s
+[1D] H=8 N=20 fold=2 epoch=400/500 loss=4.214305e-03 elapsed=16.5s
+[1D] H=8 N=20 fold=2 epoch=450/500 loss=3.507275e-03 elapsed=18.5s
+[1D] H=8 N=20 fold=2 epoch=500/500 loss=2.990231e-03 elapsed=20.4s
+
+[1D] job 33/45 | hiddenLayers=8 | neurons=20 | fold=3/5 | seed=113003
+[1D] H=8 N=20 fold=3 epoch=1/500 loss=6.530001e+00 elapsed=0.0s
+[1D] H=8 N=20 fold=3 epoch=50/500 loss=3.292631e-02 elapsed=2.0s
+[1D] H=8 N=20 fold=3 epoch=100/500 loss=2.602506e-02 elapsed=4.0s
+[1D] H=8 N=20 fold=3 epoch=150/500 loss=1.996006e-02 elapsed=6.2s
+[1D] H=8 N=20 fold=3 epoch=200/500 loss=1.318235e-02 elapsed=8.3s
+[1D] H=8 N=20 fold=3 epoch=250/500 loss=9.197064e-03 elapsed=10.3s
+[1D] H=8 N=20 fold=3 epoch=300/500 loss=7.192266e-03 elapsed=12.2s
+[1D] H=8 N=20 fold=3 epoch=350/500 loss=6.159341e-03 elapsed=14.2s
+[1D] H=8 N=20 fold=3 epoch=400/500 loss=5.373562e-03 elapsed=16.2s
+[1D] H=8 N=20 fold=3 epoch=450/500 loss=4.754530e-03 elapsed=18.2s
+[1D] H=8 N=20 fold=3 epoch=500/500 loss=4.270260e-03 elapsed=20.1s
+
+[1D] job 34/45 | hiddenLayers=8 | neurons=20 | fold=4/5 | seed=113004
+[1D] H=8 N=20 fold=4 epoch=1/500 loss=4.627430e-01 elapsed=0.0s
+[1D] H=8 N=20 fold=4 epoch=50/500 loss=4.361533e-02 elapsed=2.0s
+[1D] H=8 N=20 fold=4 epoch=100/500 loss=3.599858e-02 elapsed=3.9s
+[1D] H=8 N=20 fold=4 epoch=150/500 loss=2.297570e-02 elapsed=5.9s
+[1D] H=8 N=20 fold=4 epoch=200/500 loss=1.926658e-02 elapsed=7.9s
+[1D] H=8 N=20 fold=4 epoch=250/500 loss=1.722703e-02 elapsed=9.8s
+[1D] H=8 N=20 fold=4 epoch=300/500 loss=1.550380e-02 elapsed=11.9s
+[1D] H=8 N=20 fold=4 epoch=350/500 loss=1.394111e-02 elapsed=13.9s
+[1D] H=8 N=20 fold=4 epoch=400/500 loss=1.222564e-02 elapsed=15.9s
+[1D] H=8 N=20 fold=4 epoch=450/500 loss=9.977748e-03 elapsed=17.8s
+[1D] H=8 N=20 fold=4 epoch=500/500 loss=8.195064e-03 elapsed=19.8s
+
+[1D] job 35/45 | hiddenLayers=8 | neurons=20 | fold=5/5 | seed=113005
+[1D] H=8 N=20 fold=5 epoch=1/500 loss=9.075883e-01 elapsed=0.0s
+[1D] H=8 N=20 fold=5 epoch=50/500 loss=3.915260e-02 elapsed=1.9s
+[1D] H=8 N=20 fold=5 epoch=100/500 loss=3.640696e-02 elapsed=3.9s
+[1D] H=8 N=20 fold=5 epoch=150/500 loss=3.095577e-02 elapsed=5.9s
+[1D] H=8 N=20 fold=5 epoch=200/500 loss=1.372669e-02 elapsed=7.8s
+[1D] H=8 N=20 fold=5 epoch=250/500 loss=1.026152e-02 elapsed=9.7s
+[1D] H=8 N=20 fold=5 epoch=300/500 loss=7.409377e-03 elapsed=11.7s
+[1D] H=8 N=20 fold=5 epoch=350/500 loss=4.092020e-03 elapsed=13.7s
+[1D] H=8 N=20 fold=5 epoch=400/500 loss=2.520432e-03 elapsed=15.6s
+[1D] H=8 N=20 fold=5 epoch=450/500 loss=1.745836e-03 elapsed=17.6s
+[1D] H=8 N=20 fold=5 epoch=500/500 loss=1.503941e-03 elapsed=19.5s
+
+[1D] job 36/45 | hiddenLayers=8 | neurons=40 | fold=1/5 | seed=115001
+[1D] H=8 N=40 fold=1 epoch=1/500 loss=2.218632e+01 elapsed=0.0s
+[1D] H=8 N=40 fold=1 epoch=50/500 loss=4.641543e-02 elapsed=2.0s
+[1D] H=8 N=40 fold=1 epoch=100/500 loss=4.011044e-02 elapsed=4.0s
+[1D] H=8 N=40 fold=1 epoch=150/500 loss=3.475466e-02 elapsed=6.0s
+[1D] H=8 N=40 fold=1 epoch=200/500 loss=2.939781e-02 elapsed=8.0s
+[1D] H=8 N=40 fold=1 epoch=250/500 loss=2.653316e-02 elapsed=9.9s
+[1D] H=8 N=40 fold=1 epoch=300/500 loss=2.394842e-02 elapsed=11.9s
+[1D] H=8 N=40 fold=1 epoch=350/500 loss=2.130559e-02 elapsed=13.9s
+[1D] H=8 N=40 fold=1 epoch=400/500 loss=1.859507e-02 elapsed=15.8s
+[1D] H=8 N=40 fold=1 epoch=450/500 loss=1.609161e-02 elapsed=17.8s
+[1D] H=8 N=40 fold=1 epoch=500/500 loss=1.393239e-02 elapsed=19.8s
+
+[1D] job 37/45 | hiddenLayers=8 | neurons=40 | fold=2/5 | seed=115002
+[1D] H=8 N=40 fold=2 epoch=1/500 loss=2.143240e+00 elapsed=0.1s
+[1D] H=8 N=40 fold=2 epoch=50/500 loss=5.005181e-02 elapsed=2.0s
+[1D] H=8 N=40 fold=2 epoch=100/500 loss=4.455195e-02 elapsed=4.0s
+[1D] H=8 N=40 fold=2 epoch=150/500 loss=4.257229e-02 elapsed=5.9s
+[1D] H=8 N=40 fold=2 epoch=200/500 loss=4.076507e-02 elapsed=7.9s
+[1D] H=8 N=40 fold=2 epoch=250/500 loss=3.841022e-02 elapsed=9.9s
+[1D] H=8 N=40 fold=2 epoch=300/500 loss=3.471775e-02 elapsed=11.9s
+[1D] H=8 N=40 fold=2 epoch=350/500 loss=2.976203e-02 elapsed=13.9s
+[1D] H=8 N=40 fold=2 epoch=400/500 loss=2.509572e-02 elapsed=15.9s
+[1D] H=8 N=40 fold=2 epoch=450/500 loss=2.035880e-02 elapsed=17.8s
+[1D] H=8 N=40 fold=2 epoch=500/500 loss=1.480323e-02 elapsed=19.8s
+
+[1D] job 38/45 | hiddenLayers=8 | neurons=40 | fold=3/5 | seed=115003
+[1D] H=8 N=40 fold=3 epoch=1/500 loss=2.403781e+00 elapsed=0.0s
+[1D] H=8 N=40 fold=3 epoch=50/500 loss=4.746082e-02 elapsed=2.0s
+[1D] H=8 N=40 fold=3 epoch=100/500 loss=4.026244e-02 elapsed=4.0s
+[1D] H=8 N=40 fold=3 epoch=150/500 loss=3.286559e-02 elapsed=6.0s
+[1D] H=8 N=40 fold=3 epoch=200/500 loss=2.434324e-02 elapsed=7.9s
+[1D] H=8 N=40 fold=3 epoch=250/500 loss=1.850486e-02 elapsed=9.9s
+[1D] H=8 N=40 fold=3 epoch=300/500 loss=1.417280e-02 elapsed=11.9s
+[1D] H=8 N=40 fold=3 epoch=350/500 loss=9.597170e-03 elapsed=13.9s
+[1D] H=8 N=40 fold=3 epoch=400/500 loss=6.763723e-03 elapsed=15.9s
+[1D] H=8 N=40 fold=3 epoch=450/500 loss=4.829834e-03 elapsed=17.8s
+[1D] H=8 N=40 fold=3 epoch=500/500 loss=5.426614e-03 elapsed=19.8s
+
+[1D] job 39/45 | hiddenLayers=8 | neurons=40 | fold=4/5 | seed=115004
+[1D] H=8 N=40 fold=4 epoch=1/500 loss=3.235885e-01 elapsed=0.0s
+[1D] H=8 N=40 fold=4 epoch=50/500 loss=4.201762e-02 elapsed=2.0s
+[1D] H=8 N=40 fold=4 epoch=100/500 loss=3.773211e-02 elapsed=4.0s
+[1D] H=8 N=40 fold=4 epoch=150/500 loss=2.751002e-02 elapsed=5.9s
+[1D] H=8 N=40 fold=4 epoch=200/500 loss=2.038448e-02 elapsed=8.2s
+[1D] H=8 N=40 fold=4 epoch=250/500 loss=1.583620e-02 elapsed=10.1s
+[1D] H=8 N=40 fold=4 epoch=300/500 loss=1.179321e-02 elapsed=12.1s
+[1D] H=8 N=40 fold=4 epoch=350/500 loss=8.417416e-03 elapsed=14.0s
+[1D] H=8 N=40 fold=4 epoch=400/500 loss=6.331785e-03 elapsed=15.9s
+[1D] H=8 N=40 fold=4 epoch=450/500 loss=5.041433e-03 elapsed=17.8s
+[1D] H=8 N=40 fold=4 epoch=500/500 loss=4.147070e-03 elapsed=19.8s
+
+[1D] job 40/45 | hiddenLayers=8 | neurons=40 | fold=5/5 | seed=115005
+[1D] H=8 N=40 fold=5 epoch=1/500 loss=1.162753e+01 elapsed=0.0s
+[1D] H=8 N=40 fold=5 epoch=50/500 loss=4.515363e-02 elapsed=1.9s
+[1D] H=8 N=40 fold=5 epoch=100/500 loss=3.937028e-02 elapsed=3.9s
+[1D] H=8 N=40 fold=5 epoch=150/500 loss=3.739084e-02 elapsed=5.8s
+[1D] H=8 N=40 fold=5 epoch=200/500 loss=3.504319e-02 elapsed=7.7s
+[1D] H=8 N=40 fold=5 epoch=250/500 loss=3.164603e-02 elapsed=9.6s
+[1D] H=8 N=40 fold=5 epoch=300/500 loss=2.624775e-02 elapsed=11.6s
+[1D] H=8 N=40 fold=5 epoch=350/500 loss=2.100839e-02 elapsed=13.5s
+[1D] H=8 N=40 fold=5 epoch=400/500 loss=1.629039e-02 elapsed=15.4s
+[1D] H=8 N=40 fold=5 epoch=450/500 loss=1.233919e-02 elapsed=17.3s
+[1D] H=8 N=40 fold=5 epoch=500/500 loss=9.420156e-03 elapsed=19.2s
+
+[1D] job 41/45 | hiddenLayers=8 | neurons=80 | fold=1/5 | seed=119001
+[1D] H=8 N=80 fold=1 epoch=1/500 loss=7.643476e-01 elapsed=0.0s
+[1D] H=8 N=80 fold=1 epoch=50/500 loss=5.430784e-02 elapsed=1.9s
+[1D] H=8 N=80 fold=1 epoch=100/500 loss=5.115176e-02 elapsed=3.9s
+[1D] H=8 N=80 fold=1 epoch=150/500 loss=4.840358e-02 elapsed=5.8s
+[1D] H=8 N=80 fold=1 epoch=200/500 loss=4.477541e-02 elapsed=7.8s
+[1D] H=8 N=80 fold=1 epoch=250/500 loss=4.162380e-02 elapsed=9.8s
+[1D] H=8 N=80 fold=1 epoch=300/500 loss=3.953501e-02 elapsed=11.7s
+[1D] H=8 N=80 fold=1 epoch=350/500 loss=3.793171e-02 elapsed=13.7s
+[1D] H=8 N=80 fold=1 epoch=400/500 loss=3.643149e-02 elapsed=15.7s
+[1D] H=8 N=80 fold=1 epoch=450/500 loss=3.489604e-02 elapsed=17.6s
+[1D] H=8 N=80 fold=1 epoch=500/500 loss=3.327397e-02 elapsed=19.7s
+
+[1D] job 42/45 | hiddenLayers=8 | neurons=80 | fold=2/5 | seed=119002
+[1D] H=8 N=80 fold=2 epoch=1/500 loss=1.041816e+00 elapsed=0.0s
+[1D] H=8 N=80 fold=2 epoch=50/500 loss=5.456568e-02 elapsed=2.0s
+[1D] H=8 N=80 fold=2 epoch=100/500 loss=4.712996e-02 elapsed=3.9s
+[1D] H=8 N=80 fold=2 epoch=150/500 loss=4.390315e-02 elapsed=6.9s
+[1D] H=8 N=80 fold=2 epoch=200/500 loss=4.195826e-02 elapsed=8.9s
+[1D] H=8 N=80 fold=2 epoch=250/500 loss=3.943345e-02 elapsed=10.9s
+[1D] H=8 N=80 fold=2 epoch=300/500 loss=3.624730e-02 elapsed=13.0s
+[1D] H=8 N=80 fold=2 epoch=350/500 loss=3.295742e-02 elapsed=15.0s
+[1D] H=8 N=80 fold=2 epoch=400/500 loss=2.945348e-02 elapsed=17.5s
+[1D] H=8 N=80 fold=2 epoch=450/500 loss=2.636071e-02 elapsed=19.5s
+[1D] H=8 N=80 fold=2 epoch=500/500 loss=2.380162e-02 elapsed=21.5s
+
+[1D] job 43/45 | hiddenLayers=8 | neurons=80 | fold=3/5 | seed=119003
+[1D] H=8 N=80 fold=3 epoch=1/500 loss=5.299236e+00 elapsed=0.0s
+[1D] H=8 N=80 fold=3 epoch=50/500 loss=5.499476e-02 elapsed=2.1s
+[1D] H=8 N=80 fold=3 epoch=100/500 loss=4.875718e-02 elapsed=4.1s
+[1D] H=8 N=80 fold=3 epoch=150/500 loss=4.603714e-02 elapsed=6.5s
+[1D] H=8 N=80 fold=3 epoch=200/500 loss=4.465019e-02 elapsed=8.5s
+[1D] H=8 N=80 fold=3 epoch=250/500 loss=4.361214e-02 elapsed=10.5s
+[1D] H=8 N=80 fold=3 epoch=300/500 loss=4.241142e-02 elapsed=12.5s
+[1D] H=8 N=80 fold=3 epoch=350/500 loss=4.113190e-02 elapsed=14.5s
+[1D] H=8 N=80 fold=3 epoch=400/500 loss=3.961036e-02 elapsed=16.5s
+[1D] H=8 N=80 fold=3 epoch=450/500 loss=3.712844e-02 elapsed=18.5s
+[1D] H=8 N=80 fold=3 epoch=500/500 loss=3.292195e-02 elapsed=20.4s
+
+[1D] job 44/45 | hiddenLayers=8 | neurons=80 | fold=4/5 | seed=119004
+[1D] H=8 N=80 fold=4 epoch=1/500 loss=5.942236e-01 elapsed=0.0s
+[1D] H=8 N=80 fold=4 epoch=50/500 loss=4.761635e-02 elapsed=2.0s
+[1D] H=8 N=80 fold=4 epoch=100/500 loss=4.178100e-02 elapsed=4.0s
+[1D] H=8 N=80 fold=4 epoch=150/500 loss=4.066657e-02 elapsed=6.0s
+[1D] H=8 N=80 fold=4 epoch=200/500 loss=4.019808e-02 elapsed=8.0s
+[1D] H=8 N=80 fold=4 epoch=250/500 loss=3.978424e-02 elapsed=10.0s
+[1D] H=8 N=80 fold=4 epoch=300/500 loss=3.935168e-02 elapsed=12.0s
+[1D] H=8 N=80 fold=4 epoch=350/500 loss=3.886022e-02 elapsed=14.0s
+[1D] H=8 N=80 fold=4 epoch=400/500 loss=3.827006e-02 elapsed=16.0s
+[1D] H=8 N=80 fold=4 epoch=450/500 loss=3.751735e-02 elapsed=17.9s
+[1D] H=8 N=80 fold=4 epoch=500/500 loss=3.653853e-02 elapsed=20.0s
+
+[1D] job 45/45 | hiddenLayers=8 | neurons=80 | fold=5/5 | seed=119005
+[1D] H=8 N=80 fold=5 epoch=1/500 loss=2.039209e-01 elapsed=0.0s
+[1D] H=8 N=80 fold=5 epoch=50/500 loss=4.721376e-02 elapsed=2.0s
+[1D] H=8 N=80 fold=5 epoch=100/500 loss=3.767163e-02 elapsed=4.0s
+[1D] H=8 N=80 fold=5 epoch=150/500 loss=3.289885e-02 elapsed=6.0s
+[1D] H=8 N=80 fold=5 epoch=200/500 loss=2.665698e-02 elapsed=8.0s
+[1D] H=8 N=80 fold=5 epoch=250/500 loss=2.009481e-02 elapsed=10.1s
+[1D] H=8 N=80 fold=5 epoch=300/500 loss=1.369557e-02 elapsed=12.6s
+[1D] H=8 N=80 fold=5 epoch=350/500 loss=8.394051e-03 elapsed=14.7s
+[1D] H=8 N=80 fold=5 epoch=400/500 loss=5.577188e-03 elapsed=16.7s
+[1D] H=8 N=80 fold=5 epoch=450/500 loss=3.883037e-03 elapsed=18.9s
+[1D] H=8 N=80 fold=5 epoch=500/500 loss=3.191306e-03 elapsed=21.0s
+FULL_1D_SELFDrying_TRAINING_DONE
